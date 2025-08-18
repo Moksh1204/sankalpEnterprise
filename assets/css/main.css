@@ -6765,14 +6765,14 @@ background-color: #2d7c40;
 }
 
 .about-one__images img {
-    max-width: 100%;
+    max-width: 40%;
     margin-bottom: 30px;
     border-radius: 5px
 }
 
 @media(min-width:992px) {
     .about-one__images img {
-        max-width: none;
+        max-width: 120%;
         margin-bottom: 0
     }
 }

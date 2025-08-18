@@ -6,7 +6,7 @@
                         <a href="index.php" class="footer-widget__Logo">
                             <img src="./assets/images/Sankalp-Logo.png">
                         </a>
-                        <p>Sankalp Enterprise prides itself on being your sought-after conventional/ <a href="/product/psyllium-husk-powder/" style="color:#b5c3be;">organic psyllium</a>, <a href="whole-spices.php" style="color:#b5c3be;">spices</a>, <a href="cassia-gum-powder-in-mexicos-sauces-and-salsas-manufacturing.php" style="color:#b5c3be;">cassia gum powder</a>, <a href="beetroot-powder.php" title="Beetroot Powder Manufacturers, Exporters and Wholesale Suppliers in India." style="color:#b5c3be;">beetroot powder</a>, <a href="wheat-flour.php" style="color:#b5c3be;">wheat flour</a>, <a href="wheat-grass-powder.php" style="color:#b5c3be;">wheat grass powder</a>, <a href="red-lentils.php" style="color:#b5c3be;">red lentils</a>, <a href="spinach-powder.php" style="color:#b5c3be;">spinach powder</a>, <a href="chilli-powder.php" style="color:#b5c3be;">chilli powder</a>, <a href="hulled-sesame-seed.php" style="color:#b5c3be;">hulled sesame seed</a>, <a href="black-sesame-seed.php" style="color:#b5c3be;">black sesame seed</a>, <a href="black-mustard-seed.php" style="color:#b5c3be;">black mustard seed</a>, <a href="yellow-mustard-seed.php" style="color:#b5c3be;">yellow mustard seed</a>, <a href="garam-masala.php" style="color:#b5c3be;">garam masala</a>, <a href="cinnamon-powder.php" style="color:#b5c3be;">cinnamon powder</a>, <a href="other-agro-products-food-ingredients.php" style="color:#b5c3be;">food ingredients and grains manufacturer</a>, exporter, and supplier in India.</p>
+                        <p>Sankalp Enterprise prides itself on being your sought-after manufacturer, exporter, and supplier in India for conventional/organic spices, cumin seed, coriander, fennel seed, turmeric powder, wheat flour, red lentils, spinach powder, chilli powder, hulled sesame seeds, black sesame seeds, black mustard seeds, yellow mustard seeds, garam masala, cinnamon powder, food ingredients, grains, and psyllium.</p>
 
                         <h3 class="footer-widget__title mt-3 mb-4">Quick Links</h3>
                         <ul class="list-unstyled footer-widget__links">
@@ -26,15 +26,7 @@
                         </ul>
 
 
-                        <div class="footer__social">
-                            <a href="#!" class="fab fa-facebook-square" target="_blank"></a>
-                            <a href="#!" class="fa-brands fa-x-twitter" target="_blank"></a>
-                            <a href="#!" class="fab fa-linkedin" target="_blank"></a>
-                            <a href="#!" class="fab fa-instagram" target="_blank"></a>
-                            <a href="#!" class="fa-brands fa-youtube" target="_blank"></a>
-                            <a href="#!" class="fa-brands fa-pinterest" target="_blank"></a>
-                            <a href="#!" class="fa-brands fa-tumblr" target="_blank"></a>
-                        </div>
+
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6 col-xl-3">
@@ -43,27 +35,8 @@
                         <ul class="list-unstyled footer-widget__links">
 
                             <li>
-                                <a href="psyllium-seeds.php">Psyllium Seeds</a>
+                                <a href="psyllium-husk-powder.php">Red Chilli Powder</a>
                             </li>
-                            <li>
-                                <a href="psyllium-husk.php">Organic Psyllium Husk</a>
-                            </li>
-                            <li>
-                                <a href="psyllium-husk-powder.php">Psyllium Husk Powder</a>
-                            </li>
-
-                            <li>
-                                <a href="industrial-kha-kha-powder.php">Industrial Kha Kha Powder</a>
-                            </li>
-
-                            <li>
-                                <a href="industrial-kha-kha-powder.php">Flavored Psyllium</a>
-                            </li>
-
-                            <li>
-                                <a href="guar-gum.php">Guar Gum Powder</a>
-                            </li>
-
                             <li>
                                 <a href="turmeric-powder.php">Turmeric Powder</a>
                             </li>
@@ -80,13 +53,6 @@
                                 <a href="moringa-powder.php">Moringa Powder</a>
                             </li>
 
-                            <li>
-                                <a href="triphala-powder.php">Triphala Powder</a>
-                            </li>
-
-                            <li>
-                                <a href="bishops-seed.php">Bishop's Seed</a>
-                            </li>
 
                             <li>
                                 <a href="carrot-powder.php">Carrot Powder</a>
@@ -99,8 +65,15 @@
                             <li>
                                 <a href="nigella-seed-kalonji.php">Kalonji Seed</a>
                             </li>
+
                             <li>
-                                <a href="curry-powder.php">Curry Powder</a>
+                                <a href="psyllium-seeds.php">Psyllium Seeds</a>
+                            </li>
+                            <li>
+                                <a href="psyllium-husk.php">Organic Psyllium Husk</a>
+                            </li>
+                            <li>
+                                <a href="psyllium-husk-powder.php">Psyllium Husk Powder</a>
                             </li>
 
                         </ul>
@@ -111,9 +84,7 @@
                         <h3 class="footer-widget__title">Our Products</h3>
                         <ul class="list-unstyled footer-widget__links">
 
-                            <li>
-                                <a href="psyllium-products.php">Psyllium products</a>
-                            </li>
+
                             <li>
                                 <a href="whole-spices.php">Whole Spices</a>
                             </li>
@@ -124,44 +95,27 @@
                                 <a href="oil-seeds.php">Oil Seeds</a>
                             </li>
                             <li>
-                                <a href="herbal-products.php">Herbal Products</a>
+                                <a href="psyllium-products.php">Psyllium Products</a>
                             </li>
                             <li>
                                 <a href="pulses-grains.php">Pulses & Grains</a>
                             </li>
-                            <li><a href="pulses-grains.php">Guar Gum</a></li>
+                            <li>
+                                <a href="herbal-products.php">Herbal Products</a>
+                            </li>
+
+                            <li><a href="pulses-grains.php">Flour</a></li>
                             <!-- <li>
                                 <a href="https://www.neonaturalindustries.com/product-category/other-agro-products-food-ingredients/" title="Amaranth Seed, Wheat Flour, Quinoa Seed, Water Melon Seed Kernal, and Chia Seeds">Other Agro Products & Food Ingredients</a>
                             </li> -->
 
                             <li>
-                                <a href="pulses-grains.php">Tulsi Leaf/Powder</a>
+                                <a href="pulses-grains.php">Snacks</a>
                             </li>
 
                             <li>
-                                <a href="pulses-grains.php">Senna Leaves Powder</a>
+                                <a href="pulses-grains.php">Dehydrated Products</a>
                             </li>
-
-                            <li>
-                                <a href="ginger-powder.php">Ginger Powder</a>
-                            </li>
-
-                            <li>
-                                <a href="alfalfa-powder.php">Alfalfa Powder</a>
-                            </li>
-
-                            <li>
-                                <a href="chilly-flakes.php">Chilly Flakes</a>
-                            </li>
-
-                            <li>
-                                <a href="fenugreek-seed.php">Fenugreek Seed</a>
-                            </li>
-
-                            <li>
-                                <a href="coriander-seed.php">Coriander Seed</a>
-                            </li>
-
                         </ul>
                     </div>
                 </div>
@@ -170,14 +124,15 @@
                     <ul class="list-unstyled footer-widget__contact">
                         <li>
                             <i class="agrikon-icon-pin"></i>
-                            <a href="https://www.google.com/maps/place/Neo+Natural+Industries/@23.7727301,72.3715993,403m/data=!3m1!1e3!4m6!3m5!1s0x395c5dc53abfc069:0xb00ef0227b8ed263!8m2!3d23.771903!4d72.3726226!16s%2Fg%2F11kq2d9842?entry=ttu&g_ep=EgoyMDI0MTEwNS4wIKXMDSoASAFQAw%3D%3D" target="_blank">Plot No 5, PRS no. 2526, Near Essar Petrol Pump Opp. Unava APMC, Unava – 384160, Mehsana, North Gujarat - India</a>
+                            <a href="https://www.google.com/maps/place/Neo+Natural+Industries/@23.7727301,72.3715993,403m/data=!3m1!1e3!4m6!3m5!1s0x395c5dc53abfc069:0xb00ef0227b8ed263!8m2!3d23.771903!4d72.3726226!16s%2Fg%2F11kq2d9842?entry=ttu&g_ep=EgoyMDI0MTEwNS4wIKXMDSoASAFQAw%3D%3D" target="_blank"> Plot no . 457 , Sankalp Enterprise, Mega GIDC Kharedi , Dahod- 389151</a>
                         </li>
                         <li>
                             <i class="agrikon-icon-telephone"></i>
-                            <a href="tel:+919712168506">+91 97121 68506 - Mr. Yash</a>
+                            <a href="tel:+919081336347">+91 90813 36347 - Mr. Jainam</a>
+                            <a href="mailto:info@neonaturalindustries.com">info@neonaturalindustries.com</a>
                             <a href="mailto:info@neonaturalindustries.com">info@neonaturalindustries.com</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <i class="agrikon-icon-telephone"></i>
                             <a href="tel:+919727576750">+91 97275 76750 - Mr. Mihir</a>
                             <a href="mailto:mihir@neonaturalindustries.com">mihir@neonaturalindustries.com</a>
@@ -186,13 +141,13 @@
                             <i class="agrikon-icon-telephone"></i>
                             <a href="tel:+919624733139">+91 96247 33139 - Mr. Jaivik</a>
                             <a href="mailto:jaivik@neonaturalindustries.com">jaivik@neonaturalindustries.com</a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>
         </div>
     </footer>
-    <div class="bottom-footer">
+    <!-- <div class="bottom-footer">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
@@ -200,7 +155,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     </div>
     <a href="#" data-target="html" class="scroll-to-target scroll-to-top">
         <i class="fa fa-angle-up"></i>

@@ -58,7 +58,7 @@
 <body class="home wp-singular page-template page-template-page-templates page-template-home page-template-page-templateshome-php page page-id-6 wp-embed-responsive wp-theme-neo theme-neo cookies-set cookies-refused rttpg rttpg-7.8.2 radius-frontend rttpg-body-wrap woocommerce-no-js group-blog elementor-default elementor-kit-316 elementor-page elementor-page-6">
     <div class="page-wrapper">
         <header class="main-header">
-            <div class="topbar">
+            <!-- <div class="topbar">
                 <div class="container">
                     <div class="topbar__left">
 
@@ -74,7 +74,7 @@
                         <a href="#!" class="fa-brands fa-tumblr" target="_blank"></a>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <nav class="main-menu">
                 <div class="container">
                     <div class="logo-box">
@@ -105,16 +105,16 @@
                             </ul>
                         </li>
                         <li><a href="contact-us.php">Contact Us</a></li>
-                        <li><a href="https://www.neonaturalindustries.com/blogs/" title="Articles for Psyllium & Agricultural Commodity Solutions">Blogs</a></li>
+                        <!-- <li><a href="https://www.neonaturalindustries.com/blogs/" title="Articles for Psyllium & Agricultural Commodity Solutions">Blogs</a></li> -->
                     </ul>
                     <div class="main-header__info">
                         <span class="main-header__info-phone-content">
                             <span class="main-header__info-phone-text">WhatsApp</span>
-                            <a target="_blank" href="https://wa.me/919712168506?text=Hello..%0D%0ANEO+NATURAL+INDUSTRIES" class="main-header__info-phone" style="padding-left:20px;"><i class="fab fa-whatsapp"></i></a>
+                            <a target="_blank" href="https://wa.me/919081336347?text=Hello..SANKALP+ENTERPRISE" class="main-header__info-phone" style="padding-left:20px;"><i class="fab fa-whatsapp"></i></a>
                         </span>
                         <span class="main-header__info-phone-content" style="margin-top: -13px;">
                             <span class="main-header__info-phone-text">Call Anytime</span>
-                            <a href="tel:+919712168506" class="main-header__info-phone"><span class="main-header__info-phone-title">+91 97121 68506</span></a>
+                            <a href="tel:+919081336347" class="main-header__info-phone"><span class="main-header__info-phone-title">+91 90813 36347</span></a>
                         </span>
 
                     </div>

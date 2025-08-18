@@ -20,21 +20,21 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-7 col-lg-7">
-                            <h2>A Whole Array of Premium Psyllium Products</h2>
-                            <p>More than 55 Years of Experience</p>
+                            <h2>Delicious & Healthy Snack Varieties</h2>
+                            <p>Crafted to bring taste, crunch, and nutrition together in every bite.</p>
                             <a href="psyllium-products.php" class=" thm-btn" title="Organic Psyllium Seeds, Organic Psyllium Husk Powder, Psyllium Industrial Powder, Flavored Psyllium">Discover Psyllium Products</a>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="image-layer" style="background-image: url(./assets/images/banner/main-slider-1-1.jpg);"></div>
+                <div class="image-layer" style="background-image: url(./assets/images/banner/main-slider-1-2.jpg);"></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-7 col-lg-7">
-                            <h2>Top-Shelf Spices & Grains at Economical Prices</h2>
-                            <p>Organic and Nutrient-Rich Spices & Grains</p>
-                            <a href="https://www.neonaturalindustries.com/product-category/ground-spices/" class=" thm-btn" title="Chilli Powder, Cinnamon Powder, Clove powder, Coriander Powder, Cumin Powder, Curry Powder, Fennel Powder, Fenugreek Powder, Garam Masala, Ginger Powder, Nutmeg Powder, and Turmeric Powder">Discover Spices & Grains</a>
+                            <h2>Premium Spices & Grains at Competitive Prices</h2>
+                            <p>Wholesome, Organic, and Packed with Natural Goodness</p>
+                            <a href="https://www.neonaturalindustries.com/product-category/ground-spices/" class=" thm-btn" title="Chilli Powder, Cinnamon Powder, Clove powder, Coriander Powder, Cumin Powder, Curry Powder, Fennel Powder, Fenugreek Powder, Garam Masala, Ginger Powder, Nutmeg Powder, and Turmeric Powder">Explore Our Spices & Grains</a>
                         </div>
                     </div>
                 </div>
@@ -53,8 +53,8 @@
 <section class="service-one product-section">
     <div class="container">
         <div class="block-title text-center">
-            <p class="text-white">Our Psyllium, Spices & Grains Products list</p>
-            <h3>What We’re Serve</h3>
+            <p class="text-white">Our Range of Spices, Grains, and More</p>
+            <h3>What We Offer</h3>
         </div>
     </div>
 </section>
@@ -62,16 +62,7 @@
     <div class="container">
         <div class="products-listCvr">
             <div class="row">
-                <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
-                    <div class="service-one__box">
-                        <img src="./assets/images/product/home-product-1.jpg">
-                        <div class="service-one__box-content">
-                            <h2>
-                                <a href="psyllium-products.php">Psyllium Products</a>
-                            </h2>
-                        </div>
-                    </div>
-                </div>
+                <!-- Whole Spices -->
                 <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">
                         <img src="./assets/images/product/home-product-2.jpg">
@@ -82,7 +73,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+                <!-- Ground Spices -->
+                <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="500ms">
                     <div class="service-one__box">
                         <img src="./assets/images/product/home-product-3.jpg">
                         <div class="service-one__box-content">
@@ -92,6 +84,7 @@
                         </div>
                     </div>
                 </div>
+                <!-- Oil Seeds -->
                 <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">
                         <img src="./assets/images/product/home-product-4.jpg">
@@ -102,6 +95,29 @@
                         </div>
                     </div>
                 </div>
+                <!-- Psyllium Products -->
+                <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="service-one__box">
+                        <img src="./assets/images/product/home-product-1.jpg">
+                        <div class="service-one__box-content">
+                            <h2>
+                                <a href="psyllium-products.php">Psyllium Products</a>
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+                <!-- Flour -->
+                <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="service-one__box">
+                        <img src="./assets/images/product/home-product-7.jpg">
+                        <div class="service-one__box-content">
+                            <h2>
+                                <a href="https://www.neonaturalindustries.com/product-category/herbal-products/">Flour</a>
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+                <!-- Herbal Products -->
                 <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">
                         <img src="./assets/images/product/home-product-5.jpg">
@@ -112,12 +128,59 @@
                         </div>
                     </div>
                 </div>
+                <!-- Pulses & Grains -->
                 <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">
                         <img src="./assets/images/product/home-product-6.jpg">
-                        <h2>
-                            <a href="https://www.neonaturalindustries.com/product-category/pulses-grains/">Pulses & Grains</a>
-                        </h2>
+                        <div class="service-one__box-content">
+                            <h2>
+                                <a href="https://www.neonaturalindustries.com/product-category/pulses-grains/">Pulses & Grains</a>
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+                <!-- Snacks -->
+                <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="service-one__box">
+                        <img src="./assets/images/product/home-product-8.jpg">
+                        <div class="service-one__box-content">
+                            <h2>
+                                <a href="https://www.neonaturalindustries.com/product-category/herbal-products/">Snacks</a>
+                            </h2>
+                        </div>
+                    </div>
+                </div>                
+                <!-- Ready to eat
+                <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="service-one__box">
+                        <img src="./assets/images/product/home-product-5.jpg">
+                        <div class="service-one__box-content">
+                            <h2>
+                                <a href="https://www.neonaturalindustries.com/product-category/herbal-products/">Ready to eat</a>
+                            </h2>
+                        </div>
+                    </div> 
+                </div>                 -->
+                <!-- Instant product -->
+                <!-- <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="service-one__box">
+                        <img src="./assets/images/product/home-product-5.jpg">
+                        <div class="service-one__box-content">
+                            <h2>
+                                <a href="https://www.neonaturalindustries.com/product-category/herbal-products/">Instant product</a>
+                            </h2>
+                        </div>
+                    </div>
+                </div> -->
+                <!-- Dehydrated product -->
+                <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="service-one__box">
+                        <img src="./assets/images/product/home-product-10.jpg">
+                        <div class="service-one__box-content">
+                            <h2>
+                                <a href="https://www.neonaturalindustries.com/product-category/herbal-products/">Dehydrated product</a>
+                            </h2>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -125,7 +188,7 @@
     </div>
     </div>
 </section>
-<section class="certificates">
+<!-- <section class="certificates">
     <div class="certi-section container">
         <div class="block-title">
             <h3 class="certi-title">Trusted & Certified</h3>
@@ -166,17 +229,17 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <section class="about-one">
     <div class="container">
         <div class="row">
             <div class="col-lg-5">
                 <div class="about-one__images">
-                    <img src="./assets/images/aboutUs/home-about-1.jpg">
-                    <div class="about-one__count wow fadeInLeft" data-wow-duration="1500ms">
+                    <img src="./assets/images/aboutUs/banner.jpg">
+                    <!-- <div class="about-one__count wow fadeInLeft" data-wow-duration="1500ms">
                         <span>Established in</span>
                         <h4>1965</h4>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-lg-7">
@@ -186,17 +249,17 @@
                             <img src="./assets/images/Sankalp-Logo.png" alt="">
                         </div>
                         <p>Welcome to Sankalp Enterprise</p>
-                        <h3>Your One-Stop Destination for Best Quality Psyllium, Spices & Grain Products</h3>
+                        <h3>The Ultimate Hub for High-Quality Spices & Grain Products</h3>
                     </div>
                     <div class="about-one__summery">
-                        <p>Sankalp Enterprise prides itself on being your sought-after psyllium, spices, and grains manufacturer, exporter, and supplier in India. Based in Unjha, Gujarat, the hub of spices of grains; Sankalp Enterprise is revered for its more than 56 years of invaluable experience in the domain.</p>
+                        <p>Sankalp Enterprise prides itself on being your sought-after spices and grains manufacturer, exporter, and supplier in India. Based in Dahod, Gujarat, the hub of spices and grains; Sankalp Enterprise is revered for its invaluable experience in the domain.</p>
                     </div>
                     <div class="about-one__icon-row">
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="about-one__box">
                                     <i class="agrikon-icon-customer"></i>
-                                    <h4>Globaly Valuable Clients</h4>
+                                    <h4>Trusted Clients Worldwide</h4>
                                 </div>
                             </div>
                             <div class="col-lg-6">
@@ -207,7 +270,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="https://www.neonaturalindustries.com/about/" class="thm-btn">Discover Psyllium and Agro Products</a>
+                    <a href="https://www.neonaturalindustries.com/about/" class="thm-btn">Explore the World of Spices & Grains</a>
                 </div>
             </div>
         </div>
@@ -230,8 +293,8 @@
                         <img src="./assets/images/icon/facility-icon-1.png">
                     </div>
                     <div class="web-why-content">
-                        <h4>Advanced Manufacturing Facility </h4>
-                        <p>Our manufacturing facility is equipped with advanced machines expediting the manufacturing process with optimum quality.</p>
+                        <h4>Heritage of Quality</h4>
+                        <p>With decades of expertise and an unwavering commitment to excellence, we uphold a rich tradition of delivering products you can trust.</p>
                     </div>
                 </div>
                 <div class="web-why aos-init aos-animate" data-aos="fade-right" data-aos-duration="1000">
@@ -239,8 +302,8 @@
                         <img src="./assets/images/icon/facility-icon-2.png">
                     </div>
                     <div class="web-why-content">
-                        <h4>Plant</h4>
-                        <p>Our plant complies with all national and international quality and safety standards at all times. It is run by the best talent in the industry.</p>
+                        <h4>Versatility</h4>
+                        <p>From everyday staples to exotic imports, our wide portfolio of spices and grains is crafted to satisfy diverse tastes across the globe.</p>
                     </div>
                 </div>
                 <div class="web-why aos-init aos-animate" data-aos="fade-right" data-aos-duration="1000">
@@ -249,7 +312,7 @@
                     </div>
                     <div class="web-why-content">
                         <h4>Quality Assurance</h4>
-                        <p>Quality is our second name and we have a dedicated team of QAs to ensure that every single unit is tested on several parameters.</p>
+                        <p>Every product undergoes rigorous testing at multiple stages to guarantee purity, freshness, and superior quality before it reaches you.</p>
                     </div>
                 </div>
 
@@ -260,8 +323,8 @@
                         <img src="./assets/images/icon/facility-icon-4.png">
                     </div>
                     <div class="web-why-content">
-                        <h4>R & D Division</h4>
-                        <p>Research and development have been our forte. We are innovation-centric and focus on continual improvement.</p>
+                        <h4>Seamless Supply</h4>
+                        <p>We ensure year-round availability and a reliable supply chain, so your culinary needs are always met without interruption.</p>
                     </div>
                 </div>
                 <div class="web-why aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
@@ -269,8 +332,8 @@
                         <img src="./assets/images/icon/facility-icon-5.png">
                     </div>
                     <div class="web-why-content">
-                        <h4>Barcode | Labeling</h4>
-                        <p>All our products are packed with barcode labels on them to help identify each package of finished and packed goods.</p>
+                        <h4>Barcode/Labeling</h4>
+                        <p>Each package is equipped with secure barcode labeling, ensuring traceability, transparency, and complete confidence in every batch.</p>
                     </div>
                 </div>
                 <div class="web-why aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
@@ -279,14 +342,14 @@
                     </div>
                     <div class="web-why-content">
                         <h4>Packing & Dispatch</h4>
-                        <p>Once all products are tested on quality, they are packed and dispatched using our state-of-the-art automatic machines.</p>
-                        <a href="private-labeling.php">Read More <i class="far fa-angle-right"></i></a>
+                        <p>Our advanced packaging and automated dispatch systems preserve freshness and ensure timely delivery to customers worldwide.</p>
+                        <!-- <a href="private-labeling.php">Read More <i class="far fa-angle-right"></i></a> -->
                     </div>
                 </div>
             </div>
         </div>
         <!-- Rubric -->
-        <h1 style="color: #398445; font-size: 27px!important; padding-top: 40px;">
+        <!-- <h1 style="color: #398445; font-size: 27px!important; padding-top: 40px;">
             <strong>A Global Leader in Psyllium, Spices, Food Ingredients and Grains - Sankalp Enterprise</strong>
         </h1>
         <p style="text-align: justify;">Sankalp Enterprise has earned a stellar reputation as one of the leading manufacturers, exporters, and suppliers of
@@ -331,7 +394,7 @@
 
         <h2 style="color: #398445; font-size: 25px!important;"><strong>Empowering Industries with Quality and Trust</strong></h2>
         <p style="text-align: justify;">Sankalp Enterprise is more than just a supplier; we are a partner in your growth. Our products, such as <a href="psyllium-products.php" style="color:#6e7673;"><strong>psyllium</strong></a> for health supplements, <a href="whole-spices.php" style="color:#6e7673;"><strong>spices</strong></a> for culinary mastery, and <a href="pulses-grains.php" style="color:#6e7673;"><strong>grains</strong></a> for wholesome nutrition, empower industries to create better products and experiences for their customers.</p>
-        <p style="text-align: justify;">With a strong legacy and commitment to quality, Sankalp Enterprise continues to lead the way in the global market. Explore our extensive product range today and discover how we can support your business with innovative, high-quality solutions. Let Sankalp Enterprise be your trusted partner in delivering excellence.</p>
+        <p style="text-align: justify;">With a strong legacy and commitment to quality, Sankalp Enterprise continues to lead the way in the global market. Explore our extensive product range today and discover how we can support your business with innovative, high-quality solutions. Let Sankalp Enterprise be your trusted partner in delivering excellence.</p> -->
         <!-- Rubric end -->
     </div>
 </section>
@@ -343,7 +406,7 @@
             <div class="col-lg-5 wow fadeInLeft" data-wow-duration="1500ms">
                 <div class="call-to-action__three-content">
                     <h3>Let’s Get Started</h3>
-                    <p class="text-white">Team Sankalp Enterprise would be more than glad to serve you. Just fill in your details and we will touch base with you shortly.</p>
+                    <p class="text-white">We at Sankalp Enterprise would be delighted to assist you. Fill in your details, and our team will reach out soon.</p>
                 </div>
             </div>
             <div class="col-lg-7">
@@ -354,35 +417,76 @@
                         <p role="status" aria-live="polite" aria-atomic="true"></p>
                         <ul></ul>
                     </div>
-                    <form action="/#wpcf7-f22-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
-                        <fieldset class="hidden-fields-container"><input type="hidden" name="_wpcf7" value="22" /><input type="hidden" name="_wpcf7_version" value="6.1" /><input type="hidden" name="_wpcf7_locale" value="en_US" /><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f22-o1" /><input type="hidden" name="_wpcf7_container_post" value="0" /><input type="hidden" name="_wpcf7_posted_data_hash" value="" /><input type="hidden" name="_wpcf7_recaptcha_response" value="" />
-                        </fieldset>
-                        <div class="contact-one__form contact-form-validated">
-                            <div class="row">
-                                <div class="col-lg-12">
-                                    <p><span class="wpcf7-form-control-wrap" data-name="text-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Full Name" value="" type="text" name="text-name" /></span>
-                                    </p>
-                                </div>
-                                <div class="col-lg-12">
-                                    <p><span class="wpcf7-form-control-wrap" data-name="email-268"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email Address" value="" type="email" name="email-268" /></span>
-                                    </p>
-                                </div>
-                                <div class="col-lg-12">
-                                    <p><span class="wpcf7-form-control-wrap" data-name="tel-phone"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone Number" value="" type="tel" name="tel-phone" /></span>
-                                    </p>
-                                </div>
-                                <div class="col-lg-12">
-                                    <p><span class="wpcf7-form-control-wrap" data-name="textarea-message"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Write Message" name="textarea-message"></textarea></span>
-                                    </p>
-                                </div>
-                                <div class="col-lg-12">
-                                    <p><input class="wpcf7-form-control wpcf7-submit has-spinner thm-btn" type="submit" value="Send a Message" />
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="wpcf7-response-output" aria-hidden="true"></div>
-                    </form>
+<div class="wpcf7 no-js" id="wpcf7-f22-o1" lang="en-US" dir="ltr">
+    <form onsubmit="sendToWhatsApp(event)" class="wpcf7-form init contact-one__form contact-form-validated" novalidate="novalidate">
+        <div class="row">
+            <div class="col-lg-12">
+                <p>
+                    <span class="wpcf7-form-control-wrap" data-name="text-name">
+                        <input id="name" size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" placeholder="Full Name" type="text" name="text-name" required />
+                    </span>
+                </p>
+            </div>
+            <div class="col-lg-12">
+                <p>
+                    <span class="wpcf7-form-control-wrap" data-name="email-268">
+                        <input id="email" size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text" aria-required="true" placeholder="Email Address" type="email" name="email-268" required />
+                    </span>
+                </p>
+            </div>
+            <div class="col-lg-12">
+                <p>
+                    <span class="wpcf7-form-control-wrap" data-name="tel-phone">
+                        <input id="phone" size="40" maxlength="400" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text" aria-required="true" placeholder="Phone Number" type="tel" name="tel-phone" required />
+                    </span>
+                </p>
+            </div>
+            <div class="col-lg-12">
+                <p>
+                    <span class="wpcf7-form-control-wrap" data-name="textarea-message">
+                        <textarea id="message" cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea" placeholder="Write Message" name="textarea-message" required></textarea>
+                    </span>
+                </p>
+            </div>
+            <div class="col-lg-12">
+                <p>
+                    <input class="wpcf7-form-control wpcf7-submit has-spinner thm-btn" type="submit" value="Send a Message" />
+                </p>
+            </div>
+        </div>
+    </form>
+</div>
+
+<script>
+function sendToWhatsApp(event) {
+    event.preventDefault(); // Stop default form submission
+
+    let form = event.target; // the form element itself
+
+    // ✅ Check if form fields are valid
+    if (!form.checkValidity()) {
+        form.reportValidity(); // Show default HTML5 validation messages
+        return; // Stop here, do not open WhatsApp
+    }
+
+    // If valid, collect values
+    let name = document.getElementById("name").value;
+    let email = document.getElementById("email").value;
+    let phone = document.getElementById("phone").value;
+    let message = document.getElementById("message").value;
+
+    // Replace with your WhatsApp number
+    let phoneNumber = "919876543210";
+
+    let url = "https://wa.me/" + phoneNumber + "?text="
+            + "Name: " + encodeURIComponent(name) + "%0a"
+            + "Email: " + encodeURIComponent(email) + "%0a"
+            + "Phone: " + encodeURIComponent(phone) + "%0a"
+            + "Message: " + encodeURIComponent(message);
+
+    window.open(url, "_blank"); // Open WhatsApp only if form is valid
+}
+</script>
                 </div>
 
             </div>
@@ -403,7 +507,7 @@
                         <i class="fa-solid fa-star"></i>
                         <i class="fa-solid fa-star"></i>
                     </div>
-                    <p>Best quality Pulses &amp; Grains. Mung Bean and Soya bean smells and tastes so good and healthy for oneself. Must Try Products.</p>
+                    <p>The spices and grains from Sankalp Enterprise are truly exceptional.</br>Fresh aroma, rich taste, and consistent quality make them my first choice.</p>
                 </div>
                 <div class="swiper-slide">
                     <div class="testimonials-one__icons">
@@ -413,7 +517,7 @@
                         <i class="fa-solid fa-star"></i>
                         <i class="fa-solid fa-star"></i>
                     </div>
-                    <p>Quality of Herbal Ashwagandha Powder and wheat grass powder was too good, the quality and specifications provided were perfect.</p>
+                    <p>I was highly satisfied with the purity of their turmeric and cumin seeds.</br>The packaging was excellent, and the delivery was right on time.</p>
                 </div>
                 <div class="swiper-slide">
                     <div class="testimonials-one__icons">
@@ -423,8 +527,7 @@
                         <i class="fa-solid fa-star"></i>
                         <i class="fa-solid fa-star"></i>
                     </div>
-                    <p>Excellent products..I am impressed by their quality.<br />
-                        Fast growing food company due to their quality products.</p>
+                    <p>From quality to timely delivery, everything is perfect.</br>A dependable partner in the world of spices and grains.</p>
                 </div>
 
 
@@ -435,19 +538,19 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <div class="testimonials-one__meta">
-                        <h4>Bal Mukund Dhakad</h4>
+                        <h4>Sanjay Makwana</h4>
+                        <span>GM @ Al khass</span>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="testimonials-one__meta">
+                        <h4>Paras sanghvi</h4>
                         <span>Customer</span>
                     </div>
                 </div>
                 <div class="swiper-slide">
                     <div class="testimonials-one__meta">
-                        <h4>Dipan Modi</h4>
-                        <span>Customer</span>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="testimonials-one__meta">
-                        <h4>Meet Dasadiya</h4>
+                        <h4>Moksh shah</h4>
                         <span>Customer</span>
                     </div>
                 </div>
