@@ -6012,7 +6012,9 @@ background-color: #2d7c40;
 
 .service-one__box {
     position: relative;
-    margin-bottom: 80px
+    margin-bottom: 80px;
+    min-height: 282px;
+    max-height: 282px;
 }
 
 @media(min-width:992px) {}
@@ -6023,7 +6025,12 @@ background-color: #2d7c40;
     filter: blur(0);
     border-radius: 5px;
     -webkit-transition: 500ms ease;
-    transition: 500ms ease
+    transition: 500ms ease;
+    height: 100%;
+    min-height: 282px;
+    max-height: 282px;
+    object-fit: cover;
+    object-position: top;
 }
 
 .service-one__box:hover>img {
