@@ -35,14 +35,14 @@
                         <ul class="list-unstyled footer-widget__links">
 
                             <li>
-                                <a href="psyllium-husk-powder.php">Red Chilli Powder</a>
+                                <a href="red-chillies.php">Red Chilli Powder</a>
                             </li>
                             <li>
                                 <a href="turmeric-powder.php">Turmeric Powder</a>
                             </li>
 
                             <li>
-                                <a href="turmeric-powder.php">Amla Powder</a>
+                                <a href="amla-powder-without-seed.php">Amla Powder</a>
                             </li>
 
                             <li>
@@ -104,17 +104,17 @@
                                 <a href="herbal-products.php">Herbal Products</a>
                             </li>
 
-                            <li><a href="pulses-grains.php">Flour</a></li>
+                            <li><a href="flour.php">Flour</a></li>
                             <!-- <li>
                                 <a href="https://www.neonaturalindustries.com/product-category/other-agro-products-food-ingredients/" title="Amaranth Seed, Wheat Flour, Quinoa Seed, Water Melon Seed Kernal, and Chia Seeds">Other Agro Products & Food Ingredients</a>
                             </li> -->
 
                             <li>
-                                <a href="pulses-grains.php">Snacks</a>
+                                <a href="snacks.php">Snacks</a>
                             </li>
 
                             <li>
-                                <a href="pulses-grains.php">Dehydrated Products</a>
+                                <a href="dehydrated-products.php">Dehydrated Products</a>
                             </li>
                         </ul>
                     </div>
@@ -129,8 +129,8 @@
                         <li>
                             <i class="agrikon-icon-telephone"></i>
                             <a href="tel:+919081336347">+91 90813 36347 - Mr. Jainam</a>
-                            <a href="mailto:info@neonaturalindustries.com">info@neonaturalindustries.com</a>
-                            <a href="mailto:info@neonaturalindustries.com">info@neonaturalindustries.com</a>
+                            <a href="mailto:info@neonaturalindustries.com">jainam@gmail.com</a>
+                            <a href="mailto:info@neonaturalindustries.com">info@sankalpEnterprise.com</a>
                         </li>
                         <!-- <li>
                             <i class="agrikon-icon-telephone"></i>

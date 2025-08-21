@@ -12,11 +12,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="breadcrumb-wrap">
+                    <!-- <div class="breadcrumb-wrap">
                         <nav class="woocommerce-breadcrumb" aria-label="Breadcrumb"><a
                                 href="index.php">Home</a>&nbsp;&#47;&nbsp;Other Agro
                             Products &amp; Food Ingredients</nav>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

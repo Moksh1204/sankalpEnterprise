@@ -10,9 +10,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <div class="breadcrumb-wrap">
+                    <!-- <div class="breadcrumb-wrap">
                         <nav class="woocommerce-breadcrumb" aria-label="Breadcrumb"><a href="https://www.neonaturalindustries.com">Home</a>&nbsp;&#47;&nbsp;Instant Products</nav>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

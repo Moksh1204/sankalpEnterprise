@@ -22,7 +22,7 @@
                         <div class="col-xl-7 col-lg-7">
                             <h2>Delicious & Healthy Snack Varieties</h2>
                             <p>Crafted to bring taste, crunch, and nutrition together in every bite.</p>
-                            <a href="psyllium-products.php" class=" thm-btn" title="Organic Psyllium Seeds, Organic Psyllium Husk Powder, Psyllium Industrial Powder, Flavored Psyllium">Discover Psyllium Products</a>
+                            <a href="snacks.php" class=" thm-btn" title="Organic Psyllium Seeds, Organic Psyllium Husk Powder, Psyllium Industrial Powder, Flavored Psyllium">Discover Snacks Products</a>
                         </div>
                     </div>
                 </div>
@@ -32,9 +32,9 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-7 col-lg-7">
-                            <h2>Premium Spices & Grains at Competitive Prices</h2>
+                            <h2>Premium Pulses & Grains at Competitive Prices</h2>
                             <p>Wholesome, Organic, and Packed with Natural Goodness</p>
-                            <a href="https://www.neonaturalindustries.com/product-category/ground-spices/" class=" thm-btn" title="Chilli Powder, Cinnamon Powder, Clove powder, Coriander Powder, Cumin Powder, Curry Powder, Fennel Powder, Fenugreek Powder, Garam Masala, Ginger Powder, Nutmeg Powder, and Turmeric Powder">Explore Our Spices & Grains</a>
+                            <a href="pulses-grains.php" class=" thm-btn" title="Chilli Powder, Cinnamon Powder, Clove powder, Coriander Powder, Cumin Powder, Curry Powder, Fennel Powder, Fenugreek Powder, Garam Masala, Ginger Powder, Nutmeg Powder, and Turmeric Powder">Explore Our Pulses & Grains</a>
                         </div>
                     </div>
                 </div>
@@ -68,7 +68,7 @@
                         <img src="./assets/images/product/home-product-2.jpg">
                         <div class="service-one__box-content">
                             <h2>
-                                <a href="https://www.neonaturalindustries.com/product-category/whole-spices/">Whole Spices</a>
+                                <a href="whole-spices.php">Whole Spices</a>
                             </h2>
                         </div>
                     </div>
@@ -79,7 +79,7 @@
                         <img src="./assets/images/product/home-product-3.jpg">
                         <div class="service-one__box-content">
                             <h2>
-                                <a href="https://www.neonaturalindustries.com/product-category/ground-spices/">Ground Spices</a>
+                                <a href="ground-spices.php">Ground Spices</a>
                             </h2>
                         </div>
                     </div>
@@ -90,7 +90,7 @@
                         <img src="./assets/images/product/home-product-4.jpg">
                         <div class="service-one__box-content">
                             <h2>
-                                <a href="https://www.neonaturalindustries.com/product-category/oil-seeds/">Oil Seeds</a>
+                                <a href="oil-seeds.php">Oil Seeds</a>
                             </h2>
                         </div>
                     </div>
@@ -112,7 +112,7 @@
                         <img src="./assets/images/product/home-product-7.jpg">
                         <div class="service-one__box-content">
                             <h2>
-                                <a href="https://www.neonaturalindustries.com/product-category/herbal-products/">Flour</a>
+                                <a href="flour.php">Flour</a>
                             </h2>
                         </div>
                     </div>
@@ -123,7 +123,7 @@
                         <img src="./assets/images/product/home-product-5.jpg">
                         <div class="service-one__box-content">
                             <h2>
-                                <a href="https://www.neonaturalindustries.com/product-category/herbal-products/">Herbal Products</a>
+                                <a href="herbal-products.php">Herbal Products</a>
                             </h2>
                         </div>
                     </div>
@@ -134,7 +134,7 @@
                         <img src="./assets/images/product/home-product-6.jpg">
                         <div class="service-one__box-content">
                             <h2>
-                                <a href="https://www.neonaturalindustries.com/product-category/pulses-grains/">Pulses & Grains</a>
+                                <a href="pulses-grains.php">Pulses & Grains</a>
                             </h2>
                         </div>
                     </div>
@@ -145,7 +145,7 @@
                         <img src="./assets/images/product/home-product-8.jpg">
                         <div class="service-one__box-content">
                             <h2>
-                                <a href="https://www.neonaturalindustries.com/product-category/herbal-products/">Snacks</a>
+                                <a href="snacks.php">Snacks</a>
                             </h2>
                         </div>
                     </div>
@@ -178,7 +178,7 @@
                         <img src="./assets/images/product/home-product-10.jpg">
                         <div class="service-one__box-content">
                             <h2>
-                                <a href="https://www.neonaturalindustries.com/product-category/herbal-products/">Dehydrated product</a>
+                                <a href="dehydrated-products.php">Dehydrated product</a>
                             </h2>
                         </div>
                     </div>
@@ -270,7 +270,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="https://www.neonaturalindustries.com/about/" class="thm-btn">Explore the World of Spices & Grains</a>
+                    <a href="pulses-grains.php" class="thm-btn">Explore the World of Pulses & Grains</a>
                 </div>
             </div>
         </div>
