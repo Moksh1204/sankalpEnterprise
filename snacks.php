@@ -27,22 +27,17 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-77 status-publish instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="alfalfa-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img fetchpriority="high" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/alfalfa-powder-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Alfalfa Powder" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/alfalfa-powder-300x300.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/alfalfa-powder-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/alfalfa-powder-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/alfalfa-powder.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                        <a href="alfalfa-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img fetchpriority="high" width="300" height="300" src="./assets/images/snacks/potatoChips.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Alfalfa Powder" decoding="async" sizes="(max-width: 300px) 85vw, 300px" />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="alfalfa-powder.php">
-                                                        Alfalfa Powder</a></h2>
+                                                        Potato chips</a></h2>
                                             </div>
 
                                         </div>
-                                        <div class="shop-product_footer">
-                                            <div class="shop-cart_button">
-                                                <a href="alfalfa-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
-                                            </div>
 
-                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -51,19 +46,13 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-78 status-publish last instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="amla-powder-without-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/amla-powder-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Amla Powder (Without Seed)" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/amla-powder-300x300.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/amla-powder-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/amla-powder-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/amla-powder.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                        <a href="amla-powder-without-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="./assets/images/snacks/beetrootChips.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Amla Powder (Without Seed)" decoding="async" sizes="(max-width: 300px) 85vw, 300px" />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="amla-powder-without-seed.php">
-                                                        Amla Powder (Without Seed)</a></h2>
-                                            </div>
-
-                                        </div>
-                                        <div class="shop-product_footer">
-                                            <div class="shop-cart_button">
-                                                <a href="amla-powder-without-seed.php" class="button product_type_variable add_to_cart_button">Select options</a>
+                                                        Beetroot chips</a></h2>
                                             </div>
 
                                         </div>
@@ -75,19 +64,13 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-197 status-publish instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="spinach-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/08/spinach-powder-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Spinach Powder" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/08/spinach-powder-300x300.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/08/spinach-powder-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/08/spinach-powder-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/08/spinach-powder.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                        <a href="spinach-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="./assets/images/snacks/quinoaChips.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Spinach Powder" decoding="async" sizes="(max-width: 300px) 85vw, 300px" />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="spinach-powder.php">
-                                                        Spinach Powder</a></h2>
-                                            </div>
-
-                                        </div>
-                                        <div class="shop-product_footer">
-                                            <div class="shop-cart_button">
-                                                <a href="spinach-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
+                                                        Quinoa chips</a></h2>
                                             </div>
 
                                         </div>
@@ -99,19 +82,13 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-74 status-publish last instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="ashwagandha-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/ashwagandha-powder-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ashwagandha Powder" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/ashwagandha-powder-300x300.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/ashwagandha-powder-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/ashwagandha-powder-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/ashwagandha-powder.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                        <a href="ashwagandha-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="./assets/images/snacks/ragaChips.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Ashwagandha Powder" decoding="async" sizes="(max-width: 300px) 85vw, 300px" />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="ashwagandha-powder.php">
-                                                        Ashwagandha Powder</a></h2>
-                                            </div>
-
-                                        </div>
-                                        <div class="shop-product_footer">
-                                            <div class="shop-cart_button">
-                                                <a href="ashwagandha-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
+                                                        Raga chips</a></h2>
                                             </div>
 
                                         </div>
@@ -123,13 +100,13 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-79 status-publish instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="barley-grass-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/barley-grass-powder-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Barley Grass Powder" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/barley-grass-powder-300x300.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/barley-grass-powder-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/barley-grass-powder-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/barley-grass-powder.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                        <a href="barley-grass-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="./assets/images/snacks/oatsChips.jpeg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Barley Grass Powder" decoding="async" sizes="(max-width: 300px) 85vw, 300px" />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="barley-grass-powder.php">
-                                                        Barley Grass Powder</a></h2>
+                                                        Oats chips</a></h2>
                                             </div>
 
                                         </div>
@@ -153,7 +130,7 @@
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="basil-seeds.php">
-                                                        Basil Seeds</a></h2>
+                                                       Ragi ball</a></h2>
                                             </div>
 
                                         </div>
@@ -177,7 +154,7 @@
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="beetroot-powder.php">
-                                                        Beetroot Powder</a></h2>
+                                                        Quinoa cookies</a></h2>
                                             </div>
 
                                         </div>
@@ -201,7 +178,7 @@
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="brahmi-bacopa-whole-and-powder.php">
-                                                        Brahmi (Bacopa)- Whole and Powder</a></h2>
+                                                        Palm cookies</a></h2>
                                             </div>
 
                                         </div>
@@ -225,7 +202,7 @@
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="carrot-powder.php">
-                                                        Carrot Powder</a></h2>
+                                                        Pearl cookies</a></h2>
                                             </div>
 
                                         </div>
@@ -249,7 +226,7 @@
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="moringa-leaf-and-powder.php">
-                                                        Moringa (Leaf and Powder)</a></h2>
+                                                        Bhujia</a></h2>
                                             </div>
 
                                         </div>
@@ -273,7 +250,7 @@
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="moringa-powder.php">
-                                                        Moringa Powder</a></h2>
+                                                        Sev</a></h2>
                                             </div>
 
                                         </div>
@@ -297,7 +274,7 @@
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="shatavari-root-powder.php">
-                                                        Shatavari- Root/Powder</a></h2>
+                                                        Papdi</a></h2>
                                             </div>
 
                                         </div>
@@ -321,7 +298,7 @@
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="stevia-leaves-powder.php">
-                                                        Stevia- Leaves/Powder</a></h2>
+                                                        Gathiya</a></h2>
                                             </div>
 
                                         </div>
@@ -345,7 +322,7 @@
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="tribulus-powder.php">
-                                                        Tribulus Powder</a></h2>
+                                                        Sing bhunjia</a></h2>
                                             </div>
 
                                         </div>
@@ -369,7 +346,7 @@
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="triphala-powder.php">
-                                                        Triphala Powder</a></h2>
+                                                        Tikha mixture</a></h2>
                                             </div>
 
                                         </div>
@@ -393,7 +370,7 @@
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="tulsi-leaf-powder.php">
-                                                        Tulsi Leaf/Powder</a></h2>
+                                                        Mitha mixture</a></h2>
                                             </div>
 
                                         </div>
@@ -417,7 +394,7 @@
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="wheat-grass-powder.php">
-                                                        Wheat Grass – Powder</a></h2>
+                                                        Fryums</a></h2>
                                             </div>
 
                                         </div>
