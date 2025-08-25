@@ -9415,3 +9415,9 @@ header.post-content-header{
 .block-title__image img {
     max-width: 200px;
 }
+
+.product_item .size-woocommerce_thumbnail {
+    max-height: 244px;
+    min-height: 244px;
+    object-fit: cover;
+}
