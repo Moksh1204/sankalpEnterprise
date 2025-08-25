@@ -16,11 +16,11 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="about-one__images">
-                    <img src="./assets/images/aboutUs/home-about-1.jpg">
-                    <div class="about-one__count wow fadeInLeft" data-wow-duration="1500ms">
+                    <img src="./assets/images/aboutUs/banner.jpg">
+                    <!-- <div class="about-one__count wow fadeInLeft" data-wow-duration="1500ms">
                         <span>Established in</span>
                         <h4>1965</h4>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-lg-7">
@@ -29,12 +29,29 @@
                         <div class="block-title__image">
                             <img src="./assets/images/Sankalp-Logo.png" alt="">
                         </div>
-                        <p>About Sankalp Enterprise</p>
-                        <h3>Sankalp Enterprise</h3>
+                        <p>Welcome to Sankalp Enterprise</p>
+                        <h3>The Ultimate Hub for High-Quality Spices & Grain Products</h3>
                     </div>
                     <div class="about-one__summery">
-                        <p>Sankalp Enterprise is a highly eulogized Psyllium & agricultural commodity manufacturer, exporter, and supplier based in Unava, Gujarat (India). Sankalp Enterprise prides its wealth of experience, a wide array of products, and global footprint. </p>
+                        <p>Sankalp Enterprise prides itself on being your sought-after spices and grains manufacturer, exporter, and supplier in India. Based in Dahod, Gujarat, the hub of spices and grains; Sankalp Enterprise is revered for its invaluable experience in the domain.</p>
                     </div>
+                    <div class="about-one__icon-row">
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <div class="about-one__box">
+                                    <i class="agrikon-icon-customer"></i>
+                                    <h4>Trusted Clients Worldwide</h4>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="about-one__box">
+                                    <i class="agrikon-icon-agriculture"></i>
+                                    <h4>Pure Agriculture Products</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a href="pulses-grains.php" class="thm-btn">Explore the World of Pulses & Grains</a>
                 </div>
             </div>
         </div>
@@ -56,7 +73,7 @@
             </div>
             <div class="col-lg-3"></div>
             <div class="col-lg-6 text-center pt-3">
-                <img src="./assets/images/aboutPage/aboutus.jpg"  />
+                <img src="./assets/images/aboutPage/aboutus.jpg" />
             </div>
         </div>
     </div>
