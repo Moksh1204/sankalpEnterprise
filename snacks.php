@@ -88,7 +88,7 @@
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="ashwagandha-powder.php">
-                                                        Raga chips</a></h2>
+                                                        Ragi chips</a></h2>
                                             </div>
 
                                         </div>
@@ -250,7 +250,30 @@
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
                                                 <h2><a href="moringa-powder.php">
-                                                        Sev</a></h2>
+                                                        Laung Sev</a></h2>
+                                            </div>
+
+                                        </div>
+                                        <div class="shop-product_footer">
+                                            <div class="shop-cart_button">
+                                                <a href="moringa-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="product_item col">
+                                <div class="shop-product_grid product-type--1 nt-post-class product type-product post-75 status-publish instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
+                                    <div class="shop-product_photo">
+                                        <a href="moringa-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-powder-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Moringa Powder" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-powder-300x300.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-powder-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-powder-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-powder.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                    </div>
+                                    <div class="shop-product_content">
+                                        <div class="shop-product_body">
+                                            <div class="shop-product_title">
+                                                <h2><a href="moringa-powder.php">
+                                                        Ratlami Sev</a></h2>
                                             </div>
 
                                         </div>

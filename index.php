@@ -84,17 +84,17 @@
                         </div>
                     </div>
                 </div>
-                <!-- Oil Seeds -->
+                <!-- Snacks -->
                 <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">
-                        <img src="./assets/images/product/home-product-4.jpg">
+                        <img src="./assets/images/product/home-product-8.jpg">
                         <div class="service-one__box-content">
                             <h2>
-                                <a href="oil-seeds.php">Oil Seeds</a>
+                                <a href="snacks.php">Snacks</a>
                             </h2>
                         </div>
                     </div>
-                </div>
+                </div>  
                 <!-- Psyllium Products -->
                 <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">
@@ -139,17 +139,17 @@
                         </div>
                     </div>
                 </div>
-                <!-- Snacks -->
+                <!-- Instant Product -->
                 <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">
-                        <img src="./assets/images/product/home-product-8.jpg">
+                        <img src="./assets/images/product/home-product-4.jpg">
                         <div class="service-one__box-content">
                             <h2>
-                                <a href="snacks.php">Snacks</a>
+                                <a href="instant-product.php">Instant Product</a>
                             </h2>
                         </div>
                     </div>
-                </div>                
+                </div>               
                 <!-- Ready to eat
                 <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">

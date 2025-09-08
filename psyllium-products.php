@@ -97,7 +97,7 @@
                             </div>
                             <!--</li>-->
                             <!--<li class="product type-product post-30 status-publish instock product_cat-psyllium-products has-post-thumbnail shipping-taxable product-type-simple">-->
-                            <div class="product_item col">
+                            <!-- <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-30 status-publish last instock product_cat-psyllium-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
                                         <a href="industrial-kha-kha-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2021/10/industrial-kha-kha-powder1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Industrial kha Kha Powder" />
@@ -118,10 +118,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!--</li>-->
                             <!--<li class="product type-product post-44 status-publish first instock product_cat-psyllium-products has-post-thumbnail shipping-taxable product-type-simple">-->
-                            <div class="product_item col">
+                            <!-- <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-44 status-publish instock product_cat-psyllium-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
                                         <a href="orange-flavored-psyllium.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/orange-flavored-psyllium-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Orange Flavored Psyllium" />
@@ -142,7 +142,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!--</li>-->
                             <!--</ul>-->
                         </div>

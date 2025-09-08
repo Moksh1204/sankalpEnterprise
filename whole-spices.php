@@ -118,7 +118,7 @@
                             </div>
                             <!--</li>-->
                             <!--<li class="product type-product post-49 status-publish first instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">-->
-                            <div class="product_item col">
+                            <!-- <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-49 status-publish instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
                                         <a href="dill-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/dill-seed-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Dill Seed" />
@@ -139,10 +139,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!--</li>-->
                             <!--<li class="product type-product post-50 status-publish instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">-->
-                            <div class="product_item col">
+                            <!-- <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-50 status-publish last instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
                                         <a href="bishops-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/Ajwain-seeds-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Bishop’s Seed (Ajwain)" />
@@ -163,7 +163,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!--</li>-->
                             <!--<li class="product type-product post-51 status-publish first instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">-->
                             <div class="product_item col">
@@ -262,7 +262,7 @@
                             </div>
                             <!--</li>-->
                             <!--<li class="product type-product post-55 status-publish first instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">-->
-                            <div class="product_item col">
+                            <!-- <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-55 status-publish instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
                                         <a href="stevia-leaves.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/stevia-leaves-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Stevia Leaves" />
@@ -283,10 +283,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!--</li>-->
                             <!--<li class="product type-product post-56 status-publish instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">-->
-                            <div class="product_item col">
+                            <!-- <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-56 status-publish last instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
                                         <a href="chilly-flakes.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/chilly-flakes-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Chilly Flakes" />
@@ -307,7 +307,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!--</li>-->
                             <!--<li class="product type-product post-57 status-publish first instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">-->
                             <div class="product_item col">
@@ -350,6 +350,150 @@
                                         <div class="shop-product_footer">
                                             <div class="shop-cart_button">
                                                 <a href="senna-leaves.php" class="button product_type_variable add_to_cart_button">Select options</a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--</li>-->
+                            <!--</ul>-->
+                            <div class="product_item col">
+                                <div class="shop-product_grid product-type--1 nt-post-class product type-product post-94 status-publish instock product_cat-oil-seeds has-post-thumbnail shipping-taxable product-type-simple">
+                                    <div class="shop-product_photo">
+                                        <a href="flax-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img fetchpriority="high" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/flax-seed-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Flax Seed" />
+                                    </div>
+                                    <div class="shop-product_content">
+                                        <div class="shop-product_body">
+                                            <div class="shop-product_title">
+                                                <h2><a href="flax-seed.php">
+                                                        Flax Seed</a></h2>
+                                            </div>
+
+                                        </div>
+                                        <div class="shop-product_footer">
+                                            <div class="shop-cart_button">
+                                                <a href="flax-seed.php" class="button product_type_variable add_to_cart_button">Select options</a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--</li>-->
+                            <!--<li class="product type-product post-91 status-publish instock product_cat-oil-seeds has-post-thumbnail shipping-taxable product-type-simple">-->
+                            <div class="product_item col">
+                                <div class="shop-product_grid product-type--1 nt-post-class product type-product post-91 status-publish last instock product_cat-oil-seeds has-post-thumbnail shipping-taxable product-type-simple">
+                                    <div class="shop-product_photo">
+                                        <a href="natural-sesame-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/natural-sesame-seed-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Natural Sesame Seed" />
+                                    </div>
+                                    <div class="shop-product_content">
+                                        <div class="shop-product_body">
+                                            <div class="shop-product_title">
+                                                <h2><a href="natural-sesame-seed.php">
+                                                        Natural Sesame Seed</a></h2>
+                                            </div>
+
+                                        </div>
+                                        <div class="shop-product_footer">
+                                            <div class="shop-cart_button">
+                                                <a href="natural-sesame-seed.php" class="button product_type_variable add_to_cart_button">Select options</a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--</li>-->
+                            <!--<li class="product type-product post-92 status-publish first instock product_cat-oil-seeds has-post-thumbnail shipping-taxable product-type-simple">-->
+                            <div class="product_item col">
+                                <div class="shop-product_grid product-type--1 nt-post-class product type-product post-92 status-publish instock product_cat-oil-seeds has-post-thumbnail shipping-taxable product-type-simple">
+                                    <div class="shop-product_photo">
+                                        <a href="hulled-sesame-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/hulled-sesame-seed-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Hulled Sesame Seed" />
+                                    </div>
+                                    <div class="shop-product_content">
+                                        <div class="shop-product_body">
+                                            <div class="shop-product_title">
+                                                <h2><a href="hulled-sesame-seed.php">
+                                                        Hulled Sesame Seed</a></h2>
+                                            </div>
+
+                                        </div>
+                                        <div class="shop-product_footer">
+                                            <div class="shop-cart_button">
+                                                <a href="hulled-sesame-seed.php" class="button product_type_variable add_to_cart_button">Select options</a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--</li>-->
+                            <!--<li class="product type-product post-93 status-publish instock product_cat-oil-seeds has-post-thumbnail shipping-taxable product-type-simple">-->
+                            <div class="product_item col">
+                                <div class="shop-product_grid product-type--1 nt-post-class product type-product post-93 status-publish last instock product_cat-oil-seeds has-post-thumbnail shipping-taxable product-type-simple">
+                                    <div class="shop-product_photo">
+                                        <a href="black-sesame-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/black-sesame-seed-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Black Sesame Seed" />
+                                    </div>
+                                    <div class="shop-product_content">
+                                        <div class="shop-product_body">
+                                            <div class="shop-product_title">
+                                                <h2><a href="black-sesame-seed.php">
+                                                        Black Sesame Seed</a></h2>
+                                            </div>
+
+                                        </div>
+                                        <div class="shop-product_footer">
+                                            <div class="shop-cart_button">
+                                                <a href="black-sesame-seed.php" class="button product_type_variable add_to_cart_button">Select options</a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--</li>-->
+                            <!--<li class="product type-product post-96 status-publish first instock product_cat-oil-seeds has-post-thumbnail shipping-taxable product-type-simple">-->
+                            <div class="product_item col">
+                                <div class="shop-product_grid product-type--1 nt-post-class product type-product post-96 status-publish instock product_cat-oil-seeds has-post-thumbnail shipping-taxable product-type-simple">
+                                    <div class="shop-product_photo">
+                                        <a href="black-mustard-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/black-mustard-seed-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Black Mustard Seed" />
+                                    </div>
+                                    <div class="shop-product_content">
+                                        <div class="shop-product_body">
+                                            <div class="shop-product_title">
+                                                <h2><a href="black-mustard-seed.php">
+                                                        Black Mustard Seed</a></h2>
+                                            </div>
+
+                                        </div>
+                                        <div class="shop-product_footer">
+                                            <div class="shop-cart_button">
+                                                <a href="black-mustard-seed.php" class="button product_type_variable add_to_cart_button">Select options</a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--</li>-->
+                            <!--<li class="product type-product post-95 status-publish instock product_cat-oil-seeds has-post-thumbnail shipping-taxable product-type-simple">-->
+                            <div class="product_item col">
+                                <div class="shop-product_grid product-type--1 nt-post-class product type-product post-95 status-publish last instock product_cat-oil-seeds has-post-thumbnail shipping-taxable product-type-simple">
+                                    <div class="shop-product_photo">
+                                        <a href="yellow-mustard-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/yellow-mustard-seed-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Yellow Mustard Seed" />
+                                    </div>
+                                    <div class="shop-product_content">
+                                        <div class="shop-product_body">
+                                            <div class="shop-product_title">
+                                                <h2><a href="yellow-mustard-seed.php">
+                                                        Yellow Mustard Seed</a></h2>
+                                            </div>
+
+                                        </div>
+                                        <div class="shop-product_footer">
+                                            <div class="shop-cart_button">
+                                                <a href="yellow-mustard-seed.php" class="button product_type_variable add_to_cart_button">Select options</a>
                                             </div>
 
                                         </div>

@@ -72,7 +72,7 @@
                             </div>
                             <!--</li>-->
                             <!--<li class="product type-product post-68 status-publish first instock product_cat-ground-spices has-post-thumbnail shipping-taxable product-type-simple">-->
-                            <div class="product_item col">
+                            <!-- <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-68 status-publish instock product_cat-ground-spices has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
                                         <a href="clove-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/clove-powder-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Clove Powder" />
@@ -93,7 +93,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!--</li>-->
                             <!--<li class="product type-product post-62 status-publish instock product_cat-ground-spices has-post-thumbnail shipping-taxable product-type-simple">-->
                             <div class="product_item col">
@@ -144,7 +144,7 @@
                             </div>
                             <!--</li>-->
                             <!--<li class="product type-product post-69 status-publish instock product_cat-ground-spices has-post-thumbnail shipping-taxable product-type-simple">-->
-                            <div class="product_item col">
+                            <!-- <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-69 status-publish last instock product_cat-ground-spices has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
                                         <a href="curry-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/curry-powder-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Curry Powder" />
@@ -165,7 +165,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!--</li>-->
                             <!--<li class="product type-product post-61 status-publish first instock product_cat-ground-spices has-post-thumbnail shipping-taxable product-type-simple">-->
                             <div class="product_item col">
@@ -192,7 +192,7 @@
                             </div>
                             <!--</li>-->
                             <!--<li class="product type-product post-63 status-publish instock product_cat-ground-spices has-post-thumbnail shipping-taxable product-type-simple">-->
-                            <div class="product_item col">
+                            <!-- <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-63 status-publish last instock product_cat-ground-spices has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
                                         <a href="fenugreek-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/fenugreek-powder-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Fenugreek Powder" />
@@ -213,7 +213,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!--</li>-->
                             <!--<li class="product type-product post-72 status-publish first instock product_cat-ground-spices has-post-thumbnail shipping-taxable product-type-simple">-->
                             <div class="product_item col">

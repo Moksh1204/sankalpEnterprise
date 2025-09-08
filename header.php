@@ -78,7 +78,7 @@
             <nav class="main-menu">
                 <div class="container">
                     <div class="logo-box">
-                        <a href="#!" aria-label="logo image">
+                        <a href="index.php" aria-label="logo image">
                             <img src="./assets/images/Sankalp-Logo.png">
                         </a>
                         <span class="fa fa-bars mobile-nav__toggler"></span>

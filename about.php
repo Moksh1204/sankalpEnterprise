@@ -57,7 +57,7 @@
         </div>
     </div>
 </section>
-<section class="call-to-action__three jarallax" data-jarallax data-speed="0.3" data-imgPosition="50% 50%">
+<!-- <section class="call-to-action__three jarallax" data-jarallax data-speed="0.3" data-imgPosition="50% 50%">
     <img class="call-to-action__three__bg jarallax-img" src="./assets/images/cta-1-bg-1.jpg" />
     <div class="container">
         <div class="row">
@@ -77,7 +77,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <section class="service-two service-two__service-page">
     <div class="container">
         <div class="row">
