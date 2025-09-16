@@ -53,6 +53,7 @@
     <script src="./assets/js/js.cookie.min.js?ver=2.1.4-wc.10.0.2" defer></script>
     <script src="./assets/js/woocommerce.min.js?ver=10.0.2" defer></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@6.0/dist/fancybox/fancybox.css">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
 </head>
 
 <body class="home wp-singular page-template page-template-page-templates page-template-home page-template-page-templateshome-php page page-id-6 wp-embed-responsive wp-theme-neo theme-neo cookies-set cookies-refused rttpg rttpg-7.8.2 radius-frontend rttpg-body-wrap woocommerce-no-js group-blog elementor-default elementor-kit-316 elementor-page elementor-page-6">
@@ -101,19 +102,17 @@
                                 <li><a href="instant-product.php">Instant product</a></li>
                                 <li><a href="guar-gum.php">Guar Gum</a></li>
                                 <li><a href="other-agro-products-food-ingredients.php">Other Agro Products & Food Ingredients</a></li>
-                                
                             </ul>
                         </li>
                         <li><a href="contact-us.php">Contact Us</a></li>
-                        <!-- <li><a href="https://www.neonaturalindustries.com/blogs/" title="Articles for Psyllium & Agricultural Commodity Solutions">Blogs</a></li> -->
                     </ul>
                     <div class="main-header__info">
-                        <span class="main-header__info-phone-content">
+                        <!-- <span class="main-header__info-phone-content">
                             <span class="main-header__info-phone-text">WhatsApp</span>
                             <a target="_blank" href="https://wa.me/919081336347?text=Hello..SANKALP+ENTERPRISE" class="main-header__info-phone" style="padding-left:20px;"><i class="fab fa-whatsapp"></i></a>
-                        </span>
+                        </span> -->
                         <span class="main-header__info-phone-content" style="margin-top: -13px;">
-                            <span class="main-header__info-phone-text">Call Anytime</span>
+                            <!-- <span class="main-header__info-phone-text">Call Anytime</span> -->
                             <a href="tel:+919081336347" class="main-header__info-phone"><span class="main-header__info-phone-title">+91 90813 36347</span></a>
                         </span>
 
