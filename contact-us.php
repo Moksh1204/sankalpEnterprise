@@ -12,55 +12,46 @@
 </section>
 <section class="contact-one">
     <div class="container">
-        <div class="row align-items-center">
+        <div class="row ">
             <div class="col-sm-12 col-md-5 col-lg-6 col-xl-4">
-                <div class="contact-one__content">
-                    <div class="block-title">
-                        <div class="block-title__image"></div>
-                        <h4 class="mt-4">Contact Now</h4>
+                <div class="contactContent">
+                    <div class="block-title ">
+                        <h3>Contact Now</h3>
                     </div>
-                    <div class="contact-one__summery">
-                        <ul class="list-unstyled contactpage-widget__contact">
-                            <li>
-                                <i class="agrikon-icon-pin"></i>
-                                <a href="https://www.google.com/maps/place/Neo+Natural+Industries/@23.771903,72.3726226,17z/data=!3m1!4b1!4m6!3m5!1s0x395c5dc53abfc069:0xb00ef0227b8ed263!8m2!3d23.771903!4d72.3726226!16s%2Fg%2F11kq2d9842?hl=en&entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D" target="_blank">Plot No 5, PRS no. 2526, Near Essar Petrol Pump Opp. Unava APMC, Unava – 384160, Mehsana, North Gujarat - India</a>
-                            </li>
-                            <li>
-                                <i class="agrikon-icon-telephone"></i>
-                                <a href="tel:+919712168506">+91 97121 68506 - Mr. Yash</a>
-                                <a href="mailto:info@neonaturalindustries.com">info@neonaturalindustries.com</a>
-                            </li>
-                            <li>
-                                <i class="agrikon-icon-telephone"></i>
-                                <a href="tel:+919727576750">+91 97275 76750 - Mr. Mihir</a>
-                                <a href="mailto:mihir@neonaturalindustries.com">mihir@neonaturalindustries.com</a>
-                            </li>
-                            <li>
-                                <i class="agrikon-icon-telephone"></i>
-                                <a href="tel:+919624733139">+91 96247 33139 - Mr. Jaivik</a>
-                                <a href="mailto:jaivik@neonaturalindustries.com">jaivik@neonaturalindustries.com</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="contact-one__social">
+                    <ul>
+                        <li>
+                            <i class="agrikon-icon-pin"></i>
+                            <a href="https://maps.app.goo.gl/S3VFQkjZSwdYX5FH8" target="_blank">Plot no . 457 , Sankalp Enterprise, Mega GIDC Kharedi , Dahod- 389151</a>
+                        </li>
+                        <li>
+                            <i class="agrikon-icon-telephone"></i>
+                            <a href="tel:+919081336347" class="highlight">+91 90813 36347 - Mr. Jainam</a>
+                        </li>
+                        <li>
+                            <i class="agrikon-icon-email"></i>
+                            <a href="mailto:jainam@gmail.com" class="highlight">jainam@gmail.com</a>
+                        </li>
+                        <li>
+                            <i class="agrikon-icon-email"></i>
+                            <a href="mailto:info@sankalpEnterprise.com">info@sankalpEnterprise.com</a>
+                        </li>
+                    </ul>
+                    <!-- <div class="contact-one__social">
                         <a href="https://www.facebook.com/neonaturalindustries" class="fab fa-facebook-square" target="_blank"></a>
                         <a href="https://x.com/neonaturalunjha" class="fa-brands fa-x-twitter" target="_blank"></a>
                         <a href="https://www.linkedin.com/company/neonaturalindustries" class="fab fa-linkedin" target="_blank"></a>
                         <a href="https://www.instagram.com/neonaturalindustries/" class="fab fa-instagram" target="_blank"></a> <a href="https://www.youtube.com/@NeoNaturalIndustries-v9m" class="fa-brands fa-youtube" target="_blank"></a> <a href="https://www.pinterest.com/neonaturalindustries/" class="fa-brands fa-pinterest" target="_blank"></a> <a href="https://www.tumblr.com/neo-natural-industries" class="fa-brands fa-tumblr" target="_blank"></a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="col-sm-12 col-md-7 col-lg-6 col-xl-8">
 
-                <div class="wpcf7 no-js" id="wpcf7-f8-o1" lang="en-US" dir="ltr" data-wpcf7-id="8">
-                    <div class="screen-reader-response">
-                        <p role="status" aria-live="polite" aria-atomic="true"></p>
-                        <ul></ul>
-                    </div>
-                    <form action="/contact-us/#wpcf7-f8-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
-                        <fieldset class="hidden-fields-container"><input type="hidden" name="_wpcf7" value="8" /><input type="hidden" name="_wpcf7_version" value="6.1" /><input type="hidden" name="_wpcf7_locale" value="en_US" /><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f8-o1" /><input type="hidden" name="_wpcf7_container_post" value="0" /><input type="hidden" name="_wpcf7_posted_data_hash" value="" /><input type="hidden" name="_wpcf7_recaptcha_response" value="" />
-                        </fieldset>
+                <div class="contactForm" id="wpcf7-f8-o1" lang="en-US" dir="ltr" data-wpcf7-id="8">
+                    <form method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
                         <div class="contact-one__form contact-form-validated">
+                            <div class="block-title ">
+                                <h3>Contact Now</h3>
+                            </div>
                             <div class="row">
                                 <div class="col-lg-6">
                                     <p><span class="wpcf7-form-control-wrap" data-name="text-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Full Name" value="" type="text" name="text-name" /></span>
@@ -98,6 +89,6 @@
 </section>
 
 <div class="google-map__home-two">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.3119618156384!2d72.3726226!3d23.771903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395c5dc53abfc069%3A0xb00ef0227b8ed263!2sNeo%20Natural%20Industries!5e0!3m2!1sen!2sin!4v1737984788124!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" class="map__home-two"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d941065.3053942532!2d73.721346!3d22.8751156!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39611c1cd99e34e1%3A0x1d4b68f7bc1ab11f!2sMega%20GIDC!5e0!3m2!1sen!2sin!4v1758217863295!5m2!1sen!2sin" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <?php include('footer.php') ?>

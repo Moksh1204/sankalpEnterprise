@@ -49,12 +49,12 @@
                         <ul>
                             <li>
 
-                                <a href="https://www.google.com/maps/place/Neo+Natural+Industries/@23.7727301,72.3715993,403m/data=!3m1!1e3!4m6!3m5!1s0x395c5dc53abfc069:0xb00ef0227b8ed263!8m2!3d23.771903!4d72.3726226!16s%2Fg%2F11kq2d9842?entry=ttu&g_ep=EgoyMDI0MTEwNS4wIKXMDSoASAFQAw%3D%3D" target="_blank">  Plot no . 457 , Sankalp Enterprise, Mega GIDC Kharedi , Dahod- 389151</a>
+                                <a href="https://maps.app.goo.gl/S3VFQkjZSwdYX5FH8" target="_blank">  Plot no . 457 , Sankalp Enterprise, Mega GIDC Kharedi , Dahod- 389151</a>
                             </li>
                             <li>
                                 <a href="tel:+919081336347" class="highlight">+91 90813 36347 - Mr. Jainam</a>
-                                <a href="mailto:info@neonaturalindustries.com">jainam@gmail.com</a>
-                                <a href="mailto:info@neonaturalindustries.com">info@sankalpEnterprise.com</a>
+                                <a href="mailto:jainam@gmail.com">jainam@gmail.com</a>
+                                <a href="mailto:info@sankalpEnterprise.com">info@sankalpEnterprise.com</a>
                             </li>
                         </ul>
                     </div>

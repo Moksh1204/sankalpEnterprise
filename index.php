@@ -67,22 +67,6 @@
                     <div class="about-one__summery">
                         <p>Sankalp Enterprise prides itself on being your sought-after spices and grains manufacturer, exporter, and supplier in India. Based in Dahod, Gujarat, the hub of spices and grains; Sankalp Enterprise is revered for its invaluable experience in the domain.</p>
                     </div>
-                    <!-- <div class="about-one__icon-row">
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <div class="about-one__box">
-                                    <i class="agrikon-icon-customer"></i>
-                                    <h4>Trusted Clients Worldwide</h4>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="about-one__box">
-                                    <i class="agrikon-icon-agriculture"></i>
-                                    <h4>Pure Agriculture Products</h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
                     <a href="pulses-grains.php" class="thm-btn">Explore the World of Pulses & Grains</a>
                 </div>
             </div>
@@ -361,12 +345,6 @@
     <img class="call-to-action__three__bg jarallax-img" src="./assets/images/cta-1-bg-1.jpg" alt="parallax-image" />
     <div class="container">
         <div class="row">
-            <!-- <div class="col-lg-5 wow fadeInLeft" data-wow-duration="1500ms">
-                <div class="call-to-action__three-content">
-                    <h3>Let’s Get Started</h3>
-                    <p class="text-white">We at Sankalp Enterprise would be delighted to assist you. Fill in your details, and our team will reach out soon.</p>
-                </div>
-            </div> -->
             <div class="ContactFormWrapper">
                 <div class="block-title text-center ">
                     <p class="text-white">Contact us</p>
@@ -453,73 +431,6 @@
         </div>
     </div>
 </section>
-<!-- <section class="testimonials-one">
-    <img src="./assets/images/testimonials-bg-1-1.png" class="testimonials-one__bg" alt="Psyllium and Agro Products Reviews">
-    <div class="container">
-        <h2 class="testimonials-one__title">Testimonials</h2>
-        <div id="testimonials-one__carousel" class="testimonials-one__carousel swiper-container">
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <div class="testimonials-one__icons">
-                        <i class="fa-solid fa-star"></i>
-                        <i class="fa-solid fa-star"></i>
-                        <i class="fa-solid fa-star"></i>
-                        <i class="fa-solid fa-star"></i>
-                        <i class="fa-solid fa-star"></i>
-                    </div>
-                    <p>The spices and grains from Sankalp Enterprise are truly exceptional.</br>Fresh aroma, rich taste, and consistent quality make them my first choice.</p>
-                </div>
-                <div class="swiper-slide">
-                    <div class="testimonials-one__icons">
-                        <i class="fa-solid fa-star"></i>
-                        <i class="fa-solid fa-star"></i>
-                        <i class="fa-solid fa-star"></i>
-                        <i class="fa-solid fa-star"></i>
-                        <i class="fa-solid fa-star"></i>
-                    </div>
-                    <p>I was highly satisfied with the purity of their turmeric and cumin seeds.</br>The packaging was excellent, and the delivery was right on time.</p>
-                </div>
-                <div class="swiper-slide">
-                    <div class="testimonials-one__icons">
-                        <i class="fa-solid fa-star"></i>
-                        <i class="fa-solid fa-star"></i>
-                        <i class="fa-solid fa-star"></i>
-                        <i class="fa-solid fa-star"></i>
-                        <i class="fa-solid fa-star"></i>
-                    </div>
-                    <p>From quality to timely delivery, everything is perfect.</br>A dependable partner in the world of spices and grains.</p>
-                </div>
-
-
-            </div>
-        </div>
-
-        <div id="testimonials-one__meta" class="testimonials-one__carousel swiper-container">
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <div class="testimonials-one__meta">
-                        <h4>Sanjay Makwana</h4>
-                        <span>GM @ Al khass</span>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="testimonials-one__meta">
-                        <h4>Paras sanghvi</h4>
-                        <span>Customer</span>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="testimonials-one__meta">
-                        <h4>Moksh shah</h4>
-                        <span>Customer</span>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-        <div class="swiper-pagination" id="testimonials-one__swiper-pagination"></div>
-    </div>
-</section> -->
 <section class="blog-home-two">
     <div class="container">
         <div class="row top-row">

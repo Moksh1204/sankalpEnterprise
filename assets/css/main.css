@@ -1880,7 +1880,16 @@ h6 {
     }
 }
 
-.thm-btn {font-size: 14px;font-family: 'Roboto Flex';font-weight: 600;background: #3b1909;width: fit-content;padding: 10px 15px;border-radius: 10px;color: #fff;}
+.thm-btn {
+    font-size: 14px;
+    font-family: 'Roboto Flex';
+    font-weight: 600;
+    background: #3b1909;
+    width: fit-content;
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: #fff;
+}
 
 .thm-btn:hover {
     color: #000;
@@ -4012,9 +4021,11 @@ h6 {
 }
 
 .google-map__home-two {
-    width: 100%;
-    margin-bottom: -16px;
-    margin-top: 80px;
+    width: 90%;
+    margin-top: 60px;
+    margin: 60px auto;
+    border-radius: 10px;
+    overflow: hidden;
 }
 
 .google-map__home-two iframe {
@@ -4022,7 +4033,8 @@ h6 {
     border: none;
     outline: none;
     width: 100%;
-    height: 550px
+    height: 450px;
+    margin: 0px;
 }
 
 .client-carousel {
@@ -4108,14 +4120,6 @@ h6 {
 
 .site-footer::before {
     content: "";
-    width: 100%;
-    height: 16px;
-    background-image: url('../images/ripped-paper-base-2.png');
-    position: absolute;
-    top: -16px;
-    left: 0;
-    z-index: 10;
-    background-size: auto
 }
 
 @media(min-width:1700px) {
@@ -6084,9 +6088,7 @@ h6 {
 }
 
 .service-one__box:hover .service-one__box-content {
-    background: #3b8543;
-
-    -webkit-box-shadow: 0 10px 60px 0 rgba(0, 0, 0, .05);
+    background: #f7bc1f;
     box-shadow: 0 10px 60px 0 rgba(0, 0, 0, .05)
 }
 
@@ -6130,16 +6132,6 @@ h6 {
 
 .service-two::before {
     content: "";
-    width: 100%;
-    height: 16px;
-    background-image: url('../images/ripped-paper-gray-up.png');
-    position: absolute;
-    top: -16px;
-    left: 0;
-    z-index: 10;
-    -webkit-transform: rotate(180deg);
-    transform: rotate(180deg);
-    background-size: auto
 }
 
 @media(min-width:1700px) {
@@ -9773,7 +9765,9 @@ header.post-content-header {
 }
 
 .ContactFormWrapper .contact-one__form input,
-.ContactFormWrapper .contact-one__form textarea {
+.ContactFormWrapper .contact-one__form textarea,
+.contact-one__form input,
+.contact-one__form textarea {
     height: auto;
     padding: 20px;
     background: #f4f4f4;
@@ -10013,7 +10007,7 @@ span.icon1 {
     gap: 6px;
 }
 
-.ContactDetails li~li a.highlight {
+a.highlight {
     color: #3a1909;
     background: linear-gradient(to left, #3d0f09 20%, #f9c021 40%, #f9c021 60%, #3d0f09 80%);
     background-size: 200% auto;
@@ -10031,4 +10025,250 @@ span.icon1 {
     to {
         background-position: 200% center;
     }
+}
+
+.missionSec {
+    padding: 80px 0px;
+    background: #f4f4f4;
+}
+
+.MissionItem {
+    display: grid;
+    grid-template-columns: 45% 1fr;
+    gap: 45px;
+    align-items: center;
+    background: #fff;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.missionContent {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-right: 45px;
+}
+
+.MissonIcon {
+    width: 70px;
+    height: 70px;
+    background: linear-gradient(to right, #ffdf43 0%, #d9a822 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.MissonIcon i {
+    font-size: 45px;
+    color: #000;
+    font-weight: 500;
+}
+
+.missionContentWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.missionContentWrapper h3 {
+    margin: 0px;
+    font-size: 25px;
+    font-weight: 600;
+    color: #222;
+    font-family: "League Spartan", sans-serif;
+}
+
+.MissionImg {
+    border-radius: 20px;
+    overflow: hidden;
+    min-height: 400px;
+}
+
+.missionContentWrapper p,
+.missionContentWrapper ul li {
+    margin: 0px;
+    font-weight: 500;
+    margin: 0px;
+    line-height: 28px;
+    font-size: 15px;
+    font-family: "Roboto Flex";
+    color: #666;
+
+}
+
+.missionContentWrapper ul,
+.WhyChooseContent .desc ul {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.MissionItem.LTRContent {
+    grid-template-columns: 1fr 45%;
+}
+
+.MissionItem.LTRContent .missionContent {
+    padding-right: 0px;
+    padding-left: 45px;
+}
+
+.missionGrid {
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+
+.missionContentWrapper ul li,
+.WhyChooseContent .desc ul li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.missionContentWrapper ul i,
+.WhyChooseContent .desc ul i {
+    color: #3b1909;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.MissionImg img {
+    width: 100%;
+    height: 100%;
+    min-height: 400px;
+    object-fit: cover;
+}
+
+.WhyChooseSec {
+    display: grid;
+    grid-template-columns: 45% 1fr;
+    gap: 40px;
+    align-items: center;
+}
+
+.WhyChooseImg {
+    min-height: 600px;
+    max-height: 600px;
+}
+
+.WhyChooseContent {
+    padding-right: 50px;
+}
+
+.WhyChooseContent,
+.WhyChooseContent .desc {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.WhyChooseContent .block-title {
+    margin: 0px;
+}
+
+.WhyChooseContent .desc p,
+.WhyChooseContent .desc ul li {
+    font-weight: 500;
+    margin: 0px;
+    line-height: 28px;
+    font-size: 15px;
+    font-family: "Roboto Flex";
+    color: #666;
+}
+
+.contactContent ul {
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    list-style: none;
+}
+
+.contactContent ul li {
+    display: grid;
+    align-items: center;
+    gap: 14px;
+    grid-template-columns: 40px 1fr;
+}
+
+.contactContent ul li i {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background: linear-gradient(to right, #ffdf43 0%, #d9a822 100%);
+    color: #000;
+    font-size: 16px;
+}
+
+.contactContent ul li a {
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+    font-weight: 600;
+    color: #444;
+    margin: 0;
+    line-height: 28px;
+    font-family: 'Roboto Flex';
+    letter-spacing: 0.5px;
+}
+
+.product-section.bgWhite {
+    background: #fff;
+}
+
+.product-section .term-description .sub-title {
+    margin: 0px;
+    font-size: 25px;
+    font-weight: 600;
+    color: #222;
+    font-family: "League Spartan", sans-serif;
+}
+
+.product-section .term-description p,
+.product-section .term-description ul li {
+    font-weight: 500;
+    margin: 0px;
+    line-height: 28px;
+    font-size: 15px;
+    font-family: "Roboto Flex";
+    color: #666;
+}
+
+
+.product-section .term-description {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.product-section .term-description ul,
+.product-section .term-description ol {
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.product-section .term-description li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.product-section .term-description li i {
+    color: #3b1909;
+    font-size: 12px;
+    font-weight: 600;
 }
