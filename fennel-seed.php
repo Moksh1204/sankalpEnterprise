@@ -1,9 +1,9 @@
 <?php include('header.php') ?>
 <div class="productDetails">
     <section class="page-header category-banner">
-        <div class=" page-header__bg test12345" style="background-image:url('./assets/images/bred/Ground-Spices-1.jpg');"></div>
+        <div class=" page-header__bg test12345" style="background-image:url('./assets/images/bred/Whole-Spices-2.jpg');"></div>
         <div class="container">
-            <h1 class="woocommerce-products-header__title">Cumin Powder</h1>
+            <h1 class="woocommerce-products-header__title">Fennel Seed</h1>
         </div>
     </section>
 
@@ -12,16 +12,16 @@
             <div class="row">
                 <div class="col-sm-12 col-md-4">
                     <div class="productImg">
-                        <img fetchpriority="high" src="./assets/images/product/innerProduct/ground-spices/Cumin-Powder.jpg" />
+                        <img fetchpriority="high" src="./assets/images/product/innerProduct/whole-spices/fennel-seed.jpg" />
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-8">
                     <div class="productContent">
-                        <h2>Cumin Powder</h2>
+                        <h2>Fennel Seed</h2>
                         <div class="product-description">
-                            <p>Cumin powder, made by finely grinding dried cumin seeds, is a versatile spice known for its warm, earthy aroma and slightly bitter, nutty flavor. Commonly used in curries, soups, stews, and spice blends, it adds depth and a distinctive taste to a wide variety of dishes across global cuisines.</p>
+                            <p>Fennel seeds, harvested from the Foeniculum vulgare plant, are small, greenish-brown seeds known for their sweet, licorice-like flavor and aromatic fragrance. Widely used in Indian, Mediterranean, and Middle Eastern cuisines, they are often added to curries, breads, salads, and teas to enhance flavor and aroma.</p>
                             <br>
-                            <p>Rich in essential nutrients such as iron, magnesium, and dietary fiber, cumin powder is valued not only for its flavor but also for its potential health benefits. Traditionally, it has been used to aid digestion, support metabolism, and enhance overall wellness, making it a staple ingredient in everyday cooking.</p>
+                            <p>Beyond taste, fennel seeds offer several health benefits. Rich in dietary fiber, antioxidants, and essential minerals such as calcium, iron, and magnesium, they are traditionally used to support digestion, reduce bloating, and promote overall wellness. Their unique combination of flavor and nourishment makes fennel seeds a versatile ingredient in daily cooking.</p>
                         </div>
 
 

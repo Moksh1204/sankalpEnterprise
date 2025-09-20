@@ -51,19 +51,19 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-78 status-publish last instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="amla-powder-without-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/amla-powder.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Amla Powder (Without Seed)"  />
+                                        <a href="amla-powder.php.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/amla-powder.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Amla Powder (Without Seed)"  />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
-                                                <h2><a href="amla-powder-without-seed.php">
+                                                <h2><a href="amla-powder.php.php">
                                                         Amla Powder (Without Seed)</a></h2>
                                             </div>
 
                                         </div>
                                         <div class="shop-product_footer">
                                             <div class="shop-cart_button">
-                                                <a href="amla-powder-without-seed.php" class="button product_type_variable add_to_cart_button">Select options</a>
+                                                <a href="amla-powder.php.php" class="button product_type_variable add_to_cart_button">Select options</a>
                                             </div>
 
                                         </div>
@@ -387,19 +387,19 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-89 status-publish last instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="tulsi-leaf-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tulsi-leaf-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Tulsi Leaf" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tulsi-leaf-1.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tulsi-leaf-1-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tulsi-leaf-1-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tulsi-leaf-1.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                        <a href="tulsi-leaf.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tulsi-leaf-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Tulsi Leaf" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tulsi-leaf-1.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tulsi-leaf-1-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tulsi-leaf-1-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tulsi-leaf-1.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
                                             <div class="shop-product_title">
-                                                <h2><a href="tulsi-leaf-powder.php">
+                                                <h2><a href="tulsi-leaf.php">
                                                         Tulsi Leaf/Powder</a></h2>
                                             </div>
 
                                         </div>
                                         <div class="shop-product_footer">
                                             <div class="shop-cart_button">
-                                                <a href="tulsi-leaf-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
+                                                <a href="tulsi-leaf.php" class="button product_type_variable add_to_cart_button">Select options</a>
                                             </div>
 
                                         </div>
@@ -437,7 +437,7 @@
                             <div class="term-description test123">
                                 <h2 class="sub-title"><strong>Excellent Herbal Products by Sankalp Enterprise Industries</strong></h2>
                                 <p>Sankalp Enterprise Industries stands as a pioneer in the domain of herbal products, delivering unmatched quality and natural wellness solutions to customers worldwide. As one of India’s leading manufacturers, exporters, and suppliers of herbal products, we take pride in offering an extensive range of powders, seeds, and leaves sourced from the finest natural ingredients. Each product is crafted with a commitment to purity, ensuring maximum benefits for health-conscious individuals, businesses, and retailers alike.</p>
-                                <p>From the nutrient-packed <a style="color: #6e7673" href="moringa-powder.php" target="_blank" rel="noopener"><strong>Moringa Powder</strong></a> and rejuvenating <a style="color: #6e7673" href="ashwagandha-powder.php" target="_blank" rel="noopener"><strong>Ashwagandha Powder</strong></a> to the versatile <a style="color: #6e7673" href="amla-powder-without-seed.php" target="_blank" rel="noopener"><strong>Amla Powder</strong></a> (with or without seed), our offerings cater to diverse needs. Whether you’re looking for energy-boosting <a style="color: #6e7673" href="wheat-grass-powder.php" target="_blank" rel="noopener"><strong>Wheatgrass Powder</strong></a>, digestion-enhancing <a style="color: #6e7673" href="triphala-powder.php" target="_blank" rel="noopener"><strong>Triphala Powder</strong></a>, or stress-relieving <a style="color: #6e7673" href="brahmi-bacopa-whole-and-powder.php" target="_blank" rel="noopener"><strong>Brahmi Powder</strong></a>, Sankalp Enterprise Industries has you covered.</p>
+                                <p>From the nutrient-packed <a style="color: #6e7673" href="moringa-powder.php" target="_blank" rel="noopener"><strong>Moringa Powder</strong></a> and rejuvenating <a style="color: #6e7673" href="ashwagandha-powder.php" target="_blank" rel="noopener"><strong>Ashwagandha Powder</strong></a> to the versatile <a style="color: #6e7673" href="amla-powder.php.php" target="_blank" rel="noopener"><strong>Amla Powder</strong></a> (with or without seed), our offerings cater to diverse needs. Whether you’re looking for energy-boosting <a style="color: #6e7673" href="wheat-grass-powder.php" target="_blank" rel="noopener"><strong>Wheatgrass Powder</strong></a>, digestion-enhancing <a style="color: #6e7673" href="triphala-powder.php" target="_blank" rel="noopener"><strong>Triphala Powder</strong></a>, or stress-relieving <a style="color: #6e7673" href="brahmi-bacopa-whole-and-powder.php" target="_blank" rel="noopener"><strong>Brahmi Powder</strong></a>, Sankalp Enterprise Industries has you covered.</p>
                                 <h3 class="sub-title"><strong>Why Choose Sankalp Enterprise Industries?</strong></h3>
                                 <p>At Sankalp Enterprise Industries, quality and customer satisfaction are at the core of everything we do. Our wide range of herbal products is designed to meet the varied demands of wholesalers, dealers, and distributors across the globe, including in countries such as the USA, Australia, Thailand, Taiwan, Canada, and more. Here’s what sets us apart:</p>
                                 <h3 class="sub-title"><strong>Key Features of Sankalp Enterprise Herbal Products-</strong></h3>

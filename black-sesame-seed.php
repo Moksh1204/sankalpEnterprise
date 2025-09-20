@@ -1,9 +1,9 @@
 <?php include('header.php') ?>
 <div class="productDetails">
     <section class="page-header category-banner">
-        <div class=" page-header__bg test12345" style="background-image:url('./assets/images/bred/Ground-Spices-1.jpg');"></div>
+        <div class=" page-header__bg test12345" style="background-image:url('./assets/images/bred/Whole-Spices-2.jpg');"></div>
         <div class="container">
-            <h1 class="woocommerce-products-header__title">Cumin Powder</h1>
+            <h1 class="woocommerce-products-header__title">Black Sesame Seed</h1>
         </div>
     </section>
 
@@ -12,16 +12,16 @@
             <div class="row">
                 <div class="col-sm-12 col-md-4">
                     <div class="productImg">
-                        <img fetchpriority="high" src="./assets/images/product/innerProduct/ground-spices/Cumin-Powder.jpg" />
+                        <img fetchpriority="high" src="./assets/images/product/innerProduct/whole-spices/black-sesame-seed.jpg" />
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-8">
                     <div class="productContent">
-                        <h2>Cumin Powder</h2>
+                        <h2>Black Sesame Seed</h2>
                         <div class="product-description">
-                            <p>Cumin powder, made by finely grinding dried cumin seeds, is a versatile spice known for its warm, earthy aroma and slightly bitter, nutty flavor. Commonly used in curries, soups, stews, and spice blends, it adds depth and a distinctive taste to a wide variety of dishes across global cuisines.</p>
+                            <p>Black sesame seeds, harvested from the Sesamum indicum plant, are tiny, jet-black seeds admired for their bold, nutty flavor and crisp texture. Popular in Asian, Middle Eastern, and Indian cuisines, they are often used in breads, sweets, salads, and stir-fried dishes, adding both taste and a striking appearance.</p>
                             <br>
-                            <p>Rich in essential nutrients such as iron, magnesium, and dietary fiber, cumin powder is valued not only for its flavor but also for its potential health benefits. Traditionally, it has been used to aid digestion, support metabolism, and enhance overall wellness, making it a staple ingredient in everyday cooking.</p>
+                            <p>These seeds are also highly valued for their nutritional profile. Packed with calcium, iron, magnesium, and beneficial fats, black sesame seeds are believed to aid in bone strength, heart health, and skin nourishment. Their unique mix of flavor and wellness benefits makes them a wholesome and versatile ingredient in daily cooking.</p>
                         </div>
 
 

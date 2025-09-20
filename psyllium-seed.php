@@ -1,9 +1,9 @@
 <?php include('header.php') ?>
 <div class="productDetails">
     <section class="page-header category-banner">
-        <div class=" page-header__bg test12345" style="background-image:url('./assets/images/bred/Ground-Spices-1.jpg');"></div>
+        <div class=" page-header__bg test12345" style="background-image:url('./assets/images/bred/Psyllium-Products-1.jpg');"></div>
         <div class="container">
-            <h1 class="woocommerce-products-header__title">Cumin Powder</h1>
+            <h1 class="woocommerce-products-header__title">Psyllium Seeds</h1>
         </div>
     </section>
 
@@ -12,17 +12,19 @@
             <div class="row">
                 <div class="col-sm-12 col-md-4">
                     <div class="productImg">
-                        <img fetchpriority="high" src="./assets/images/product/innerProduct/ground-spices/Cumin-Powder.jpg" />
+                        <img fetchpriority="high" src="./assets/images/product/innerProduct/psyllium-products/psyllium-seed.jpg" />
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-8">
                     <div class="productContent">
-                        <h2>Cumin Powder</h2>
+                        <h2>Psyllium Seeds</h2>
                         <div class="product-description">
-                            <p>Cumin powder, made by finely grinding dried cumin seeds, is a versatile spice known for its warm, earthy aroma and slightly bitter, nutty flavor. Commonly used in curries, soups, stews, and spice blends, it adds depth and a distinctive taste to a wide variety of dishes across global cuisines.</p>
+                            <p>Psyllium seeds, harvested from the Plantago ovata plant, are small, oval seeds known for their high fiber content and natural digestive benefits. They are commonly used as a dietary supplement or incorporated into health-focused recipes by soaking or grinding into powder, making them easy to include in daily meals.</p>
                             <br>
-                            <p>Rich in essential nutrients such as iron, magnesium, and dietary fiber, cumin powder is valued not only for its flavor but also for its potential health benefits. Traditionally, it has been used to aid digestion, support metabolism, and enhance overall wellness, making it a staple ingredient in everyday cooking.</p>
+                            <p>Rich in soluble fiber, psyllium seeds help support bowel regularity, maintain gut health, and promote overall wellness. Known by names such as Isabgula, Ispaghula, and Plantaginis Ovatae Semen, these seeds are a trusted natural ingredient in traditional remedies and modern health routines alike.</p>
                         </div>
+
+
 
 
                         <div class="inqueryBtn">

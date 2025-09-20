@@ -3,7 +3,7 @@
     <section class="page-header category-banner">
         <div class=" page-header__bg test12345" style="background-image:url('./assets/images/bred/Ground-Spices-1.jpg');"></div>
         <div class="container">
-            <h1 class="woocommerce-products-header__title">Cumin Powder</h1>
+            <h1 class="woocommerce-products-header__title">Cinnamon</h1>
         </div>
     </section>
 
@@ -12,16 +12,16 @@
             <div class="row">
                 <div class="col-sm-12 col-md-4">
                     <div class="productImg">
-                        <img fetchpriority="high" src="./assets/images/product/innerProduct/ground-spices/Cumin-Powder.jpg" />
+                        <img fetchpriority="high" src="./assets/images/product/innerProduct/ground-spices/cinnamon.jpg" />
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-8">
                     <div class="productContent">
-                        <h2>Cumin Powder</h2>
+                        <h2>Cinnamon</h2>
                         <div class="product-description">
-                            <p>Cumin powder, made by finely grinding dried cumin seeds, is a versatile spice known for its warm, earthy aroma and slightly bitter, nutty flavor. Commonly used in curries, soups, stews, and spice blends, it adds depth and a distinctive taste to a wide variety of dishes across global cuisines.</p>
+                            <p>Cinnamon, obtained from the inner bark of trees belonging to the Cinnamomum family, is a beloved spice recognized for its warm, sweet aroma and delicate flavor. Used in both sweet and savory dishes, it enhances everything from desserts and baked goods to curries and beverages, making it a versatile favorite across global cuisines.</p>
                             <br>
-                            <p>Rich in essential nutrients such as iron, magnesium, and dietary fiber, cumin powder is valued not only for its flavor but also for its potential health benefits. Traditionally, it has been used to aid digestion, support metabolism, and enhance overall wellness, making it a staple ingredient in everyday cooking.</p>
+                            <p>Rich in antioxidants, essential oils, and minerals, cinnamon is often linked to improved digestion, balanced blood sugar levels, and overall vitality. Its combination of health-promoting properties and irresistible fragrance has earned it a permanent place in kitchens, where it continues to add both taste and wellness to everyday meals.</p>
                         </div>
 
 

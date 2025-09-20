@@ -415,7 +415,7 @@
                             let message = document.getElementById("message").value;
 
                             // Replace with your WhatsApp number
-                            let phoneNumber = "919876543210";
+                            let phoneNumber = "919081336347"; // without '+' or '00'
 
                             let url = "https://wa.me/" + phoneNumber + "?text=" +
                                 "Name: " + encodeURIComponent(name) + "%0a" +

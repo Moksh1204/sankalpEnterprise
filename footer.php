@@ -17,9 +17,9 @@
                             <li>
                                 <a href="about.php"><i class="fa-light fa-chevrons-right"></i> About us</a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a href="facility.php"><i class="fa-light fa-chevrons-right"></i> Our Facility</a>
-                            </li>
+                            </li> -->
                             <li>
                                 <a href="contact-us.php"><i class="fa-light fa-chevrons-right"></i> Contact Us</a>
                             </li>
@@ -84,7 +84,7 @@
                             </li>
 
                             <li>
-                                <a href="amla-powder-without-seed.php">Amla Powder</a>
+                                <a href="amla-powder.php.php">Amla Powder</a>
                             </li>
 
                             <li>
