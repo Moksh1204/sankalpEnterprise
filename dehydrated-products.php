@@ -433,7 +433,7 @@
                             <!--</li>-->
                             <!--</ul>-->
                         </div>
-                        <div class="category-rubric">
+                        <div class="category-rubric mb-0">
                             <div class="term-description test123">
                                 <h2 class="sub-title"><strong>Excellent Herbal Products by Sankalp Enterprise Industries</strong></h2>
                                 <p>Sankalp Enterprise Industries stands as a pioneer in the domain of herbal products, delivering unmatched quality and natural wellness solutions to customers worldwide. As one of India’s leading manufacturers, exporters, and suppliers of herbal products, we take pride in offering an extensive range of powders, seeds, and leaves sourced from the finest natural ingredients. Each product is crafted with a commitment to purity, ensuring maximum benefits for health-conscious individuals, businesses, and retailers alike.</p>

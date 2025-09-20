@@ -2,7 +2,7 @@
 <section class="page-header category-banner">
     <div class=" page-header__bg test12345" style="background-image:url('./assets/images/bred/Herbal-Products-1.jpg');"></div>
     <div class="container">
-        <h1 class="woocommerce-products-header__title">Product Category</h1>
+        <h1 class="woocommerce-products-header__title">Product Categories</h1>
     </div>
 </section>
 

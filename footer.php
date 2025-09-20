@@ -26,21 +26,17 @@
                         </ul>
                     </div>
                     <div class="footerItem">
-                        <h5>Our Products</h5>
+                        <h5>Product Categories</h5>
                         <ul class="threeGrid">
-                            <li><a href="whole-spices.php"><i class="fa-light fa-chevrons-right"></i> Whole Spices</a></li>
-                            <li><a href="#!"><i class="fa-light fa-chevrons-right"></i> Ground Spices</a></li>
-                            <li><a href="#!"><i class="fa-light fa-chevrons-right"></i> Oil Seeds</a></li>
-                            <li><a href="#!"><i class="fa-light fa-chevrons-right"></i> Psyllium Products</a></li>
-                            <li><a href="#!"><i class="fa-light fa-chevrons-right"></i> Pulses & Grains</a></li>
-                            <li><a href="#!"><i class="fa-light fa-chevrons-right"></i> Herbal Products</a></li>
-                            <li><a href="#!"><i class="fa-light fa-chevrons-right"></i> Flour</a></li>
-                            <li><a href="#!"><i class="fa-light fa-chevrons-right"></i> Snacks</a></li>
-                            <li><a href="#!"><i class="fa-light fa-chevrons-right"></i> Ready To Eat</a></li>
-                            <li><a href="#!"><i class="fa-light fa-chevrons-right"></i> Instant product</a></li>
-                            <li><a href="#!"><i class="fa-light fa-chevrons-right"></i> Guar Gum</a></li>
-                            <li><a href="#!"><i class="fa-light fa-chevrons-right"></i> Other Agro Products & Food Ingredients</a>
-                            </li>
+                            <li><a href="whole-spices.php"><i class="fa-light fa-chevrons-right"></i>Whole Spices</a></li>
+                            <li><a href="ground-spices.php"><i class="fa-light fa-chevrons-right"></i>Ground Spices</a></li>
+                            <li><a href="snacks.php"><i class="fa-light fa-chevrons-right"></i>Snacks</a></li>
+                            <li><a href="psyllium-products.php"><i class="fa-light fa-chevrons-right"></i>Psyllium Products</a></li>
+                            <li><a href="herbal-products.php"><i class="fa-light fa-chevrons-right"></i>Herbal Products</a></li>
+                            <li><a href="pulses-grains.php"><i class="fa-light fa-chevrons-right"></i>Pulses & Grains</a></li>
+                            <!-- <li><a href="flour.php">Flour</a></li> -->
+                            <!-- <li><a href="ready-to-eat.php">Ready To Eat</a></li> -->
+                            <!-- <li><a href="instant-product.php">Instant product</a></li> -->
                         </ul>
                     </div>
                     <div class="footerItem ContactDetails">
@@ -49,7 +45,7 @@
                         <ul>
                             <li>
 
-                                <a href="https://maps.app.goo.gl/S3VFQkjZSwdYX5FH8" target="_blank">  Plot no . 457 , Sankalp Enterprise, Mega GIDC Kharedi , Dahod- 389151</a>
+                                <a href="https://maps.app.goo.gl/S3VFQkjZSwdYX5FH8" target="_blank"> Plot no . 457 , Sankalp Enterprise, Mega GIDC Kharedi , Dahod- 389151</a>
                             </li>
                             <li>
                                 <a href="tel:+919081336347" class="highlight">+91 90813 36347 - Mr. Jainam</a>

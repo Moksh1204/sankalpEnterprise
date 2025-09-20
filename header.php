@@ -87,8 +87,8 @@
                     <ul class="main-menu__list">
                         <li><a href="index.php">Home</a></li>
                         <li><a href="about.php">About</a></li>
-                        <li><a href="facility.php">Facility</a></li>
-                        <li class="dropdown"><a href="ourProduct.php">Products Category</a>
+                        <!-- <li><a href="facility.php">Facility</a></li> -->
+                        <li class="dropdown"><a href="ourProduct.php">Product Categories</a>
                             <ul>
                                 <li><a href="whole-spices.php">Whole Spices</a></li>
                                 <li><a href="ground-spices.php">Ground Spices</a></li>
