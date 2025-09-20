@@ -110,12 +110,12 @@
                                             </div>
 
                                         </div>
-                                        <div class="shop-product_footer">
+                                        <!-- <div class="shop-product_footer">
                                             <div class="shop-cart_button">
                                                 <a href="barley-grass-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
                                             </div>
 
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -134,12 +134,12 @@
                                             </div>
 
                                         </div>
-                                        <div class="shop-product_footer">
+                                        <!-- <div class="shop-product_footer">
                                             <div class="shop-cart_button">
                                                 <a href="basil-seeds.php" class="button product_type_variable add_to_cart_button">Select options</a>
                                             </div>
 
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -148,7 +148,7 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-80 status-publish instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="beetroot-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/beetroot-powder-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Beetroot Powder" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/beetroot-powder-300x300.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/beetroot-powder-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/beetroot-powder-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/beetroot-powder.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                        <a href="beetroot-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="./assets/images/snacks/quinoaCookies.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Beetroot Powder" decoding="async" sizes="(max-width: 300px) 85vw, 300px" />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
@@ -158,12 +158,12 @@
                                             </div>
 
                                         </div>
-                                        <div class="shop-product_footer">
+                                        <!-- <div class="shop-product_footer">
                                             <div class="shop-cart_button">
                                                 <a href="beetroot-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
                                             </div>
 
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -172,7 +172,7 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-81 status-publish last instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="brahmi-bacopa-whole-and-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/brahmi-powder-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Brahmi (Bacopa)- Whole and Powder" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/brahmi-powder-300x300.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/brahmi-powder-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/brahmi-powder-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/brahmi-powder.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                        <a href="brahmi-bacopa-whole-and-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="./assets/images/snacks/palmCookies.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Brahmi (Bacopa)- Whole and Powder" decoding="async" sizes="(max-width: 300px) 85vw, 300px" />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
@@ -182,12 +182,12 @@
                                             </div>
 
                                         </div>
-                                        <div class="shop-product_footer">
+                                        <!-- <div class="shop-product_footer">
                                             <div class="shop-cart_button">
                                                 <a href="brahmi-bacopa-whole-and-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
                                             </div>
 
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -206,12 +206,12 @@
                                             </div>
 
                                         </div>
-                                        <div class="shop-product_footer">
+                                        <!-- <div class="shop-product_footer">
                                             <div class="shop-cart_button">
                                                 <a href="carrot-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
                                             </div>
 
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -220,7 +220,7 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-83 status-publish last instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="moringa-leaf-and-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-leaf-powder-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Moringa (Leaf and Powder)" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-leaf-powder-300x300.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-leaf-powder-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-leaf-powder-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-leaf-powder.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                        <a href="moringa-leaf-and-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="./assets/images/snacks/bhujia.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Moringa (Leaf and Powder)" decoding="async" sizes="(max-width: 300px) 85vw, 300px" />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
@@ -230,12 +230,12 @@
                                             </div>
 
                                         </div>
-                                        <div class="shop-product_footer">
+                                        <!-- <div class="shop-product_footer">
                                             <div class="shop-cart_button">
                                                 <a href="moringa-leaf-and-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
                                             </div>
 
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -244,7 +244,7 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-75 status-publish instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="moringa-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-powder-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Moringa Powder" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-powder-300x300.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-powder-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-powder-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-powder.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                        <a href="moringa-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="./assets/images/snacks/laungSev.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Moringa Powder" decoding="async" sizes="(max-width: 300px) 85vw, 300px" />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
@@ -254,12 +254,12 @@
                                             </div>
 
                                         </div>
-                                        <div class="shop-product_footer">
+                                        <!-- <div class="shop-product_footer">
                                             <div class="shop-cart_button">
                                                 <a href="moringa-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
                                             </div>
 
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -267,7 +267,7 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-75 status-publish instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="moringa-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-powder-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Moringa Powder" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-powder-300x300.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-powder-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-powder-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/moringa-powder.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                        <a href="moringa-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="./assets/images/snacks/ratlamiSev.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Moringa Powder" decoding="async" sizes="(max-width: 300px) 85vw, 300px" />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
@@ -277,12 +277,12 @@
                                             </div>
 
                                         </div>
-                                        <div class="shop-product_footer">
+                                        <!-- <div class="shop-product_footer">
                                             <div class="shop-cart_button">
                                                 <a href="moringa-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
                                             </div>
 
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -291,7 +291,7 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-84 status-publish last instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="shatavari-root-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/shatavari-powder-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="shatavari-powder" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/shatavari-powder-300x300.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/shatavari-powder-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/shatavari-powder-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/shatavari-powder.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                        <a href="shatavari-root-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="./assets/images/snacks/papdi.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="shatavari-powder" decoding="async" sizes="(max-width: 300px) 85vw, 300px" />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
@@ -301,12 +301,12 @@
                                             </div>
 
                                         </div>
-                                        <div class="shop-product_footer">
+                                        <!-- <div class="shop-product_footer">
                                             <div class="shop-cart_button">
                                                 <a href="shatavari-root-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
                                             </div>
 
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -315,7 +315,7 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-85 status-publish instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="stevia-leaves-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/stevia-leaf-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Stevia- Leaves/Powder" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/stevia-leaf-300x300.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/stevia-leaf-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/stevia-leaf-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/stevia-leaf.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                        <a href="stevia-leaves-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="./assets/images/snacks/gathiya.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Stevia- Leaves/Powder" decoding="async" sizes="(max-width: 300px) 85vw, 300px" />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
@@ -325,12 +325,12 @@
                                             </div>
 
                                         </div>
-                                        <div class="shop-product_footer">
+                                        <!-- <div class="shop-product_footer">
                                             <div class="shop-cart_button">
                                                 <a href="stevia-leaves-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
                                             </div>
 
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -339,7 +339,7 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-86 status-publish last instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="tribulus-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tribulus-powder-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Tribulus Powder" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tribulus-powder-300x300.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tribulus-powder-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tribulus-powder-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tribulus-powder.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                        <a href="tribulus-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="./assets/images/snacks/singBhujiya.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Tribulus Powder" decoding="async" sizes="(max-width: 300px) 85vw, 300px" />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
@@ -349,12 +349,12 @@
                                             </div>
 
                                         </div>
-                                        <div class="shop-product_footer">
+                                        <!-- <div class="shop-product_footer">
                                             <div class="shop-cart_button">
                                                 <a href="tribulus-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
                                             </div>
 
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -363,7 +363,7 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-88 status-publish instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="triphala-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tripahala-powder-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Triphala Powder" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tripahala-powder-300x300.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tripahala-powder-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tripahala-powder-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tripahala-powder.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                        <a href="triphala-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="./assets/images/snacks/tikhaMixture.webp" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Triphala Powder" decoding="async" sizes="(max-width: 300px) 85vw, 300px" />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
@@ -373,12 +373,12 @@
                                             </div>
 
                                         </div>
-                                        <div class="shop-product_footer">
+                                        <!-- <div class="shop-product_footer">
                                             <div class="shop-cart_button">
                                                 <a href="triphala-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
                                             </div>
 
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -387,7 +387,7 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-89 status-publish last instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="tulsi-leaf-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tulsi-leaf-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Tulsi Leaf" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tulsi-leaf-1-300x300.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tulsi-leaf-1-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tulsi-leaf-1-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/tulsi-leaf-1.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                        <a href="tulsi-leaf-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="./assets/images/snacks/mithaMixture.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Tulsi Leaf" decoding="async" sizes="(max-width: 300px) 85vw, 300px" />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
@@ -397,12 +397,12 @@
                                             </div>
 
                                         </div>
-                                        <div class="shop-product_footer">
+                                        <!-- <div class="shop-product_footer">
                                             <div class="shop-cart_button">
                                                 <a href="tulsi-leaf-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
                                             </div>
 
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -411,7 +411,7 @@
                             <div class="product_item col">
                                 <div class="shop-product_grid product-type--1 nt-post-class product type-product post-90 status-publish instock product_cat-herbal-products has-post-thumbnail shipping-taxable product-type-simple">
                                     <div class="shop-product_photo">
-                                        <a href="wheat-grass-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/wheat-grasss-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Wheat Grass - Powder" decoding="async" srcset="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/wheat-grasss-1-300x300.jpg 300w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/wheat-grasss-1-100x100.jpg 100w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/wheat-grasss-1-150x150.jpg 150w, https://www.neonaturalindustries.com/wp-content/uploads/2022/06/wheat-grasss-1.jpg 600w" sizes="(max-width: 300px) 85vw, 300px" />
+                                        <a href="wheat-grass-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="./assets/images/snacks/fryums.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Wheat Grass - Powder" decoding="async" sizes="(max-width: 300px) 85vw, 300px" />
                                     </div>
                                     <div class="shop-product_content">
                                         <div class="shop-product_body">
@@ -421,12 +421,12 @@
                                             </div>
 
                                         </div>
-                                        <div class="shop-product_footer">
+                                        <!-- <div class="shop-product_footer">
                                             <div class="shop-cart_button">
                                                 <a href="wheat-grass-powder.php" class="button product_type_variable add_to_cart_button">Select options</a>
                                             </div>
 
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>

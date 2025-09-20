@@ -28,7 +28,7 @@
                     <div class="footerItem">
                         <h5>Our Products</h5>
                         <ul class="threeGrid">
-                            <li><a href="#!"><i class="fa-light fa-chevrons-right"></i> Whole Spices</a></li>
+                            <li><a href="whole-spices.php"><i class="fa-light fa-chevrons-right"></i> Whole Spices</a></li>
                             <li><a href="#!"><i class="fa-light fa-chevrons-right"></i> Ground Spices</a></li>
                             <li><a href="#!"><i class="fa-light fa-chevrons-right"></i> Oil Seeds</a></li>
                             <li><a href="#!"><i class="fa-light fa-chevrons-right"></i> Psyllium Products</a></li>
