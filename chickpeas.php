@@ -68,7 +68,7 @@
                                 <div class="product_item col">
                                     <div class="shop-product_grid product-type--1 nt-post-class product type-product post-101 status-publish instock product_cat-pulses-grains has-post-thumbnail shipping-taxable product-type-simple">
                                         <div class="shop-product_photo">
-                                            <a href="red-lentils.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/red-lentils-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Red Lentils" />
+                                            <a href="red-lentils.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/red-lentils.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Red Lentils" />
                                         </div>
                                         <div class="shop-product_content">
                                             <div class="shop-product_body">
@@ -90,7 +90,7 @@
                                 <div class="product_item col">
                                     <div class="shop-product_grid product-type--1 nt-post-class product type-product post-105 status-publish last instock product_cat-pulses-grains has-post-thumbnail shipping-taxable product-type-simple">
                                         <div class="shop-product_photo">
-                                            <a href="chana-dal.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/chana-dal-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Chana Dal" />
+                                            <a href="chana-dal.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/chana-dal.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Chana Dal" />
                                         </div>
                                         <div class="shop-product_content">
                                             <div class="shop-product_body">
@@ -112,7 +112,7 @@
                                 <div class="product_item col">
                                     <div class="shop-product_grid product-type--1 nt-post-class product type-product post-104 status-publish instock product_cat-pulses-grains has-post-thumbnail shipping-taxable product-type-simple">
                                         <div class="shop-product_photo">
-                                            <a href="yellow-moong-dal.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/yellow-moong-dal-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Yellow Moong Dal" />
+                                            <a href="yellow-moong-dal.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/yellow-moong-dal.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Yellow Moong Dal" />
                                         </div>
                                         <div class="shop-product_content">
                                             <div class="shop-product_body">
@@ -134,7 +134,7 @@
                                 <div class="product_item col">
                                     <div class="shop-product_grid product-type--1 nt-post-class product type-product post-103 status-publish last instock product_cat-pulses-grains has-post-thumbnail shipping-taxable product-type-simple">
                                         <div class="shop-product_photo">
-                                            <a href="soya-bean.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/soya-bean-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Soya Bean" />
+                                            <a href="soya-bean.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/soya-bean.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Soya Bean" />
                                         </div>
                                         <div class="shop-product_content">
                                             <div class="shop-product_body">

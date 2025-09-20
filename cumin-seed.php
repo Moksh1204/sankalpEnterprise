@@ -105,7 +105,7 @@
                                 <div class="product_item col">
                                     <div class="shop-product_grid product-type--1 nt-post-class product type-product post-58 status-publish instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">
                                         <div class="shop-product_photo">
-                                            <a href="senna-leaves.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/senna-leaves-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Senna Leaves" />
+                                            <a href="senna-leaves.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/senna-leaves-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Senna Leaves" />
                                         </div>
                                         <div class="shop-product_content">
                                             <div class="shop-product_body">
@@ -131,7 +131,7 @@
                                 <div class="product_item col">
                                     <div class="shop-product_grid product-type--1 nt-post-class product type-product post-46 status-publish last instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">
                                         <div class="shop-product_photo">
-                                            <a href="fennel-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/fennel-seed-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Fennel Seed" />
+                                            <a href="fennel-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/fennel-seed.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Fennel Seed" />
                                         </div>
                                         <div class="shop-product_content">
                                             <div class="shop-product_body">
@@ -157,7 +157,7 @@
                                 <div class="product_item col">
                                     <div class="shop-product_grid product-type--1 nt-post-class product type-product post-49 status-publish instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">
                                         <div class="shop-product_photo">
-                                            <a href="dill-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/dill-seed-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Dill Seed" />
+                                            <a href="dill-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/dill-seed.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Dill Seed" />
                                         </div>
                                         <div class="shop-product_content">
                                             <div class="shop-product_body">
@@ -183,7 +183,7 @@
                                 <div class="product_item col">
                                     <div class="shop-product_grid product-type--1 nt-post-class product type-product post-48 status-publish last instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">
                                         <div class="shop-product_photo">
-                                            <a href="coriander-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/coriander-seed-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Coriander Seed" />
+                                            <a href="coriander-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/coriander-seed.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Coriander Seed" />
                                         </div>
                                         <div class="shop-product_content">
                                             <div class="shop-product_body">

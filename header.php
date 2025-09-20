@@ -88,20 +88,17 @@
                         <li><a href="index.php">Home</a></li>
                         <li><a href="about.php">About</a></li>
                         <li><a href="facility.php">Facility</a></li>
-                        <li class="dropdown"><a href="ourProduct.php">Products</a>
+                        <li class="dropdown"><a href="ourProduct.php">Products Category</a>
                             <ul>
                                 <li><a href="whole-spices.php">Whole Spices</a></li>
                                 <li><a href="ground-spices.php">Ground Spices</a></li>
-                                <li><a href="oil-seeds.php">Oil Seeds</a></li>
-                                <li><a href="psyllium-products.php">Psyllium Products</a></li>
-                                <li><a href="pulses-grains.php">Pulses & Grains</a></li>
-                                <li><a href="herbal-products.php">Herbal Products</a></li>
-                                <li><a href="flour.php">Flour</a></li>
                                 <li><a href="snacks.php">Snacks</a></li>
-                                <li><a href="ready-to-eat.php">Ready To Eat</a></li>
-                                <li><a href="instant-product.php">Instant product</a></li>
-                                <li><a href="guar-gum.php">Guar Gum</a></li>
-                                <li><a href="other-agro-products-food-ingredients.php">Other Agro Products & Food Ingredients</a></li>
+                                <li><a href="psyllium-products.php">Psyllium Products</a></li>
+                                <li><a href="herbal-products.php">Herbal Products</a></li>
+                                <li><a href="pulses-grains.php">Pulses & Grains</a></li>
+                                <!-- <li><a href="flour.php">Flour</a></li> -->
+                                <!-- <li><a href="ready-to-eat.php">Ready To Eat</a></li> -->
+                                <!-- <li><a href="instant-product.php">Instant product</a></li> -->
                             </ul>
                         </li>
                         <li><a href="contact-us.php">Contact Us</a></li>

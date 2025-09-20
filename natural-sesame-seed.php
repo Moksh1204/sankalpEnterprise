@@ -105,7 +105,7 @@
                                             <a href="hulled-sesame-seed.php"
                                                 class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img
                                                     width="300" height="300"
-                                                    src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/hulled-sesame-seed-300x300.jpg"
+                                                    src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/hulled-sesame-seed.jpg"
                                                     class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                     alt="Hulled Sesame Seed" />
                                         </div>
@@ -136,7 +136,7 @@
                                             <a href="yellow-mustard-seed.php"
                                                 class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img
                                                     loading="lazy" width="300" height="300"
-                                                    src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/yellow-mustard-seed-300x300.jpg"
+                                                    src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/yellow-mustard-seed.jpg"
                                                     class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                     alt="Yellow Mustard Seed" />
                                         </div>
@@ -167,7 +167,7 @@
                                             <a href="black-mustard-seed.php"
                                                 class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img
                                                     loading="lazy" width="300" height="300"
-                                                    src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/black-mustard-seed-300x300.jpg"
+                                                    src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/black-mustard-seed.jpg"
                                                     class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                     alt="Black Mustard Seed" />
                                         </div>
@@ -198,7 +198,7 @@
                                             <a href="black-sesame-seed.php"
                                                 class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img
                                                     loading="lazy" width="300" height="300"
-                                                    src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/black-sesame-seed-300x300.jpg"
+                                                    src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/black-sesame-seed.jpg"
                                                     class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail"
                                                     alt="Black Sesame Seed" />
                                         </div>

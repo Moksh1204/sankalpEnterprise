@@ -193,7 +193,7 @@
                                     <div class="product_item col">
                                         <div class="shop-product_grid product-type--1 nt-post-class product type-product post-30 status-publish instock product_cat-psyllium-products has-post-thumbnail shipping-taxable product-type-simple">
                                             <div class="shop-product_photo">
-                                                <a href="industrial-kha-kha-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2021/10/industrial-kha-kha-powder1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Industrial kha Kha Powder"  />
+                                                <a href="industrial-kha-kha-powder.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2021/10/industrial-kha-kha-powder1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Industrial kha Kha Powder"  />
                                             </div>
                                             <div class="shop-product_content">
                                                 <div class="shop-product_body">
@@ -216,7 +216,7 @@
                                     <div class="product_item col">
                                         <div class="shop-product_grid product-type--1 nt-post-class product type-product post-26 status-publish last instock product_cat-psyllium-products has-post-thumbnail shipping-taxable product-type-simple">
                                             <div class="shop-product_photo">
-                                                <a href="psyllium-seeds.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2021/10/psyllium-seed-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Psyllium Seeds"  />
+                                                <a href="psyllium-seeds.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2021/10/psyllium-seed.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Psyllium Seeds"  />
                                             </div>
                                             <div class="shop-product_content">
                                                 <div class="shop-product_body">
@@ -239,7 +239,7 @@
                                     <div class="product_item col">
                                         <div class="shop-product_grid product-type--1 nt-post-class product type-product post-28 status-publish instock product_cat-psyllium-products has-post-thumbnail shipping-taxable product-type-simple">
                                             <div class="shop-product_photo">
-                                                <a href="psyllium-husk.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2021/10/psyllium-husk-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Psyllium Husk"  />
+                                                <a href="psyllium-husk.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2021/10/psyllium-husk.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Psyllium Husk"  />
                                             </div>
                                             <div class="shop-product_content">
                                                 <div class="shop-product_body">
@@ -262,7 +262,7 @@
                                     <div class="product_item col">
                                         <div class="shop-product_grid product-type--1 nt-post-class product type-product post-44 status-publish last instock product_cat-psyllium-products has-post-thumbnail shipping-taxable product-type-simple">
                                             <div class="shop-product_photo">
-                                                <a href="orange-flavored-psyllium.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/orange-flavored-psyllium-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Orange Flavored Psyllium"  />
+                                                <a href="orange-flavored-psyllium.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/orange-flavored-psyllium-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Orange Flavored Psyllium"  />
                                             </div>
                                             <div class="shop-product_content">
                                                 <div class="shop-product_body">

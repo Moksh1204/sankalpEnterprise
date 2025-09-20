@@ -126,7 +126,7 @@
                     </div>
                 </div>
                 <!-- Flour -->
-                <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+                <!-- <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">
                         <img src="./assets/images/product/home-product-7.jpg">
                         <div class="service-one__box-content">
@@ -135,7 +135,7 @@
                             </h2>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- Herbal Products -->
                 <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">
@@ -159,7 +159,7 @@
                     </div>
                 </div>
                 <!-- Instant Product -->
-                <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+                <!-- <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">
                         <img src="./assets/images/product/home-product-4.jpg">
                         <div class="service-one__box-content">
@@ -168,9 +168,9 @@
                             </h2>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <!-- Dehydrated product -->
-                <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+                <!-- <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">
                         <img src="./assets/images/product/home-product-10.jpg">
                         <div class="service-one__box-content">
@@ -179,7 +179,7 @@
                             </h2>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>

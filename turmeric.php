@@ -74,7 +74,7 @@
                                 <div class="product_item col">
                                     <div class="shop-product_grid product-type--1 nt-post-class product type-product post-51 status-publish instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">
                                         <div class="shop-product_photo">
-                                            <a href="red-chillies.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/red-chillies-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Red Chillies" />
+                                            <a href="red-chillies.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/red-chillies-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Red Chillies" />
                                         </div>
                                         <div class="shop-product_content">
                                             <div class="shop-product_body">
@@ -96,7 +96,7 @@
                                 <div class="product_item col">
                                     <div class="shop-product_grid product-type--1 nt-post-class product type-product post-47 status-publish last instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">
                                         <div class="shop-product_photo">
-                                            <a href="fenugreek-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/fenugreek-seed-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Fenugreek Seed" />
+                                            <a href="fenugreek-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/fenugreek-seed.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Fenugreek Seed" />
                                         </div>
                                         <div class="shop-product_content">
                                             <div class="shop-product_body">
@@ -118,7 +118,7 @@
                                 <div class="product_item col">
                                     <div class="shop-product_grid product-type--1 nt-post-class product type-product post-53 status-publish instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">
                                         <div class="shop-product_photo">
-                                            <a href="bay-leaf.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/bay-leaf-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Bay Leaf" />
+                                            <a href="bay-leaf.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/bay-leaf.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Bay Leaf" />
                                         </div>
                                         <div class="shop-product_content">
                                             <div class="shop-product_body">
@@ -140,7 +140,7 @@
                                 <div class="product_item col">
                                     <div class="shop-product_grid product-type--1 nt-post-class product type-product post-57 status-publish last instock product_cat-whole-spices has-post-thumbnail shipping-taxable product-type-simple">
                                         <div class="shop-product_photo">
-                                            <a href="cinnamon.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/cinnamon-2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Cinnamon" />
+                                            <a href="cinnamon.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/cinnamon-2.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Cinnamon" />
                                         </div>
                                         <div class="shop-product_content">
                                             <div class="shop-product_body">

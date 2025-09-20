@@ -73,7 +73,7 @@
                                 <div class="product_item col">
                                     <div class="shop-product_grid product-type--1 nt-post-class product type-product post-204 status-publish instock product_cat-other-agro-products-food-ingredients has-post-thumbnail shipping-taxable product-type-simple">
                                         <div class="shop-product_photo">
-                                            <a href="water-melon-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/08/watermelon-seed-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Water Melon Seed Kernel"  />
+                                            <a href="water-melon-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/08/watermelon-seed-1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Water Melon Seed Kernel"  />
                                         </div>
                                         <div class="shop-product_content">
                                             <div class="shop-product_body">
@@ -96,7 +96,7 @@
                                 <div class="product_item col">
                                     <div class="shop-product_grid product-type--1 nt-post-class product type-product post-200 status-publish last instock product_cat-other-agro-products-food-ingredients has-post-thumbnail shipping-taxable product-type-simple">
                                         <div class="shop-product_photo">
-                                            <a href="amaranth-flour.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/08/Amaranth-flour-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Amaranth Flour"  />
+                                            <a href="amaranth-flour.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/08/Amaranth-flour.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Amaranth Flour"  />
                                         </div>
                                         <div class="shop-product_content">
                                             <div class="shop-product_body">
@@ -119,7 +119,7 @@
                                 <div class="product_item col">
                                     <div class="shop-product_grid product-type--1 nt-post-class product type-product post-98 status-publish instock product_cat-other-agro-products-food-ingredients has-post-thumbnail shipping-taxable product-type-simple">
                                         <div class="shop-product_photo">
-                                            <a href="quinoa-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/quinoa-seed-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Quinoa Seed"  />
+                                            <a href="quinoa-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/quinoa-seed.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Quinoa Seed"  />
                                         </div>
                                         <div class="shop-product_content">
                                             <div class="shop-product_body">
@@ -142,7 +142,7 @@
                                 <div class="product_item col">
                                     <div class="shop-product_grid product-type--1 nt-post-class product type-product post-76 status-publish last instock product_cat-other-agro-products-food-ingredients has-post-thumbnail shipping-taxable product-type-simple">
                                         <div class="shop-product_photo">
-                                            <a href="chia-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/chia-seed-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Chia Seed"  />
+                                            <a href="chia-seed.php" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img loading="lazy" width="300" height="300" src="https://www.neonaturalindustries.com/wp-content/uploads/2022/06/chia-seed.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Chia Seed"  />
                                         </div>
                                         <div class="shop-product_content">
                                             <div class="shop-product_body">
