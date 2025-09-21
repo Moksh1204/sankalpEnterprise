@@ -34,7 +34,7 @@
                 <?php
                 }
                 ?>
-                <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+                <!-- <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">
                         <img
                             src="./assets/images/product/innerProduct/pulses-grains/chana-dal.jpg">
@@ -99,7 +99,7 @@
                             </h2>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
 
             </div>
