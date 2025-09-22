@@ -63,7 +63,7 @@ h1.entry-title {
 
 @media(max-width:767px) {
     .elementor-kit-316 h2 {
-        font-size: 23px;
+        /* font-size: 23px; */
     }
 
     .elementor-section.elementor-section-boxed>.elementor-container {

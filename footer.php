@@ -213,7 +213,7 @@
             </div>
 
             <div class="mobile-nav__container"></div>
-            <ul class="mobile-nav__contact list-unstyled">
+            <!-- <ul class="mobile-nav__contact list-unstyled">
                 <li>
                     <a target="_blank" href="https://wa.me/919712168506?text=Hello..%0D%0ANEO+NATURAL+INDUSTRIES"><i class="fa-brands fa-whatsapp fa-2xl" style="color:var(--thm-primary);font-size: 34px;"></i> <span style="padding-left:10px; color:white;">WhatsApp Us</span></a>
                 </li>
@@ -232,7 +232,7 @@
                     <a href="#!" class="fa-brands fa-pinterest" target="_blank"></a>
                     <a href="#!" class="fa-brands fa-tumblr" target="_blank"></a>
                 </div>
-            </div>
+            </div> -->
         </div>
 
     </div>
@@ -280,15 +280,31 @@
                 delay: 6000,
                 disableOnInteraction: false,
             },
-            slidesPerView: 3, // Show 2 slides
-            spaceBetween: 45, // Space in pixels between slides
+            // slidesPerView: 3, // Default (desktop)
+            // spaceBetween: 45,    
             pagination: false,
             navigation: {
                 nextEl: ".swiper-button-next",
                 prevEl: ".swiper-button-prev",
             },
+            breakpoints: {
+                1200: {
+                    slidesPerView: 3,
+                    spaceBetween: 45,
+                },
+                991: {
+                    slidesPerView: 2,
+                    spaceBetween: 30,
+                },
+                767: {
+                    slidesPerView: 1,
+                    spaceBetween: 15,
+                },
+               
+            },
         });
     </script>
+
 
 
     </body>

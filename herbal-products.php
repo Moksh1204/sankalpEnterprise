@@ -21,15 +21,17 @@
                     $productName = ucwords(str_replace(['-', '_'], ' ', $fileName));
                     $link = strtolower(str_replace(' ', '-', $productName)) . ".php";
                 ?>
-                    <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="service-one__box">
-                            <img src="<?php echo $p; ?>" alt="<?php echo $productName; ?>">
-                            <div class="service-one__box-content">
-                                <h2>
-                                    <a href="<?php echo $link; ?>"><?php echo $productName; ?></a>
-                                </h2>
+                    <div class="col-sm-12 col-md-6 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+                        <a href="<?php echo $link; ?>">
+                            <div class="service-one__box">
+                                <img src="<?php echo $p; ?>" alt="<?php echo $productName; ?>">
+                                <div class="service-one__box-content">
+                                    <h2>
+                                        <a href="<?php echo $link; ?>"><?php echo $productName; ?></a>
+                                    </h2>
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                 <?php
                 }
