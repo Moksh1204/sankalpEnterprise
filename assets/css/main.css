@@ -2600,7 +2600,11 @@ h6 {
 
 @media(max-width:575px) {
     .main-header__info-phone {
-        display: none
+        display: none;
+    }
+
+    .inqueryBtn .main-header__info-phone {
+        display: block;
     }
 }
 
@@ -10302,6 +10306,8 @@ a.highlight {
 .productDetailsSec .productImg {
     border-radius: 20px;
     overflow: hidden;
+    min-height: 350px;
+    max-height: 350px;
 }
 
 .productContent {
@@ -10529,4 +10535,11 @@ a.highlight {
     width: 100%;
     object-fit: cover;
     border-radius: 10px;
+}
+
+.productDetailsSec .productImg img {
+    height: 100%;
+    min-height: 350px;
+    max-height: 350px;
+    object-fit: cover;
 }
