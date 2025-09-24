@@ -12,7 +12,7 @@
             <div class="row">
                 <div class="col-sm-12 col-md-4">
                     <div class="productImg">
-                        <img fetchpriority="high" src="./assets/images/product/innerProduct/whole-spices/bay-leaf.jpg" />
+                        <img fetchpriority="high" src="./assets/images/product/innerProduct/whole-spices/black-mustard-seed.jpg" />
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-8">
@@ -25,7 +25,7 @@
                         </div>
 
                         <div class="inqueryBtn">
-                            For further inquiy
+                            For further inquiry
                             <span class="main-header__info-phone-content">
                                 <a href="tel:+919081336347" class="main-header__info-phone"><span class="main-header__info-phone-title">Click Here</span></a>
                             </span>

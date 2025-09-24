@@ -25,7 +25,7 @@
                         </div>
 
                         <div class="inqueryBtn">
-                            For further inquiy
+                            For further inquiry
                             <span class="main-header__info-phone-content">
                                 <a href="tel:+919081336347" class="main-header__info-phone"><span class="main-header__info-phone-title">Click Here</span></a>
                             </span>

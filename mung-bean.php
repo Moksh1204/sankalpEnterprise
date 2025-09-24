@@ -21,13 +21,13 @@
                         <div class="product-description">
                             <p>Mung beans, also known as moong beans, are small green legumes widely cherished for their mild flavor, quick cooking time, and impressive nutritional profile. A staple in Asian and Indian cuisines, they are enjoyed in soups, curries, dals, and even sprouted for salads and snacks. Their versatility and easy digestibility make them a preferred choice in both traditional and modern diets.</p>
                             <br>
-                            <p>Rich in plant-based protein, fiber, and essential vitamins and minerals, mung beans support digestion, energy, and overall health. They are naturally low in fat and high in antioxidants, making them a wholesome ingredient for balanced meals. At Neo Natural, we bring you premium-quality mung beans that combine taste, nutrition, and freshness in every serving.</p>
+                            <p>Rich in plant-based protein, fiber, and essential vitamins and minerals, mung beans support digestion, energy, and overall health. They are naturally low in fat and high in antioxidants, making them a wholesome ingredient for balanced meals. At Sankal enterprise, we bring you premium-quality mung beans that combine taste, nutrition, and freshness in every serving.</p>
                         </div>
 
 
 
                         <div class="inqueryBtn">
-                            For further inquiy
+                            For further inquiry
                             <span class="main-header__info-phone-content">
                                 <a href="tel:+919081336347" class="main-header__info-phone"><span class="main-header__info-phone-title">Click Here</span></a>
                             </span>

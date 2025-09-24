@@ -45,12 +45,11 @@
                         <ul>
                             <li>
 
-                                <a href="https://maps.app.goo.gl/S3VFQkjZSwdYX5FH8" target="_blank"> Plot no . 457 , Sankalp Enterprise, Mega GIDC Kharedi , Dahod- 389151</a>
+                                <a target="_blank"> Plot no . 457 , Sankalp Enterprise, Mega GIDC Kharedi , Dahod- 389151</a>
                             </li>
                             <li>
                                 <a href="tel:+919081336347" class="highlight">+91 90813 36347 - Mr. Jainam</a>
-                                <a href="mailto:jainam@gmail.com">jainam@gmail.com</a>
-                                <a href="mailto:info@sankalpEnterprise.com">info@sankalpEnterprise.com</a>
+                                <a href="mailto:jainam@sankalpenterprise.com">jainam@sankalpenterprise.com</a>
                             </li>
                         </ul>
                     </div>
@@ -193,7 +192,7 @@
         <div class="pulse"></div>
         <div class="pulse"></div>
         <a onclick="gtag('event', 'send', { 'event_category': 'click on whatsapp', 'event_action': 'Mobile', 'event_label': '+919081336347' });"
-            href="https://wa.me/919081336347?text=Hello..SANKALP+ENTERPRISE" target="_blank" class="whatsapp-info pulse">
+            href="https://wa.me/919081336347?text=Hi there! I would like to know more about your products/services." target="_blank" class="whatsapp-info pulse">
             <span class="icon1"> <i class="fab fa-whatsapp"></i></span></a>
         <!-- <a href="tel:+919427631714" onclick="gtag('event', 'send', { 'event_category': 'click on Mobile', 'event_action': 'Mobile', 'event_label': '919427631714' });" >
         <i class="fa fa-phone-alt" aria-hidden="true"></i>

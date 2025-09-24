@@ -21,13 +21,13 @@
                         <div class="product-description">
                             <p>Soya beans are a protein-rich legume widely valued for their versatility in both traditional and modern cuisines. With their mild flavor and firm texture, they are used to make a variety of products such as soy milk, tofu, soy flour, and soy-based snacks. Soya beans are also enjoyed in curries, stews, and salads, making them a staple in vegetarian and vegan diets around the world.</p>
                             <br>
-                            <p>Packed with plant-based protein, dietary fiber, and essential nutrients like calcium, iron, and magnesium, soya beans contribute to strength, energy, and overall wellness. At Neo Natural, we deliver premium-quality soya beans that ensure freshness, nutrition, and taste, offering a wholesome addition to everyday meals.</p>
+                            <p>Packed with plant-based protein, dietary fiber, and essential nutrients like calcium, iron, and magnesium, soya beans contribute to strength, energy, and overall wellness. At Sankal enterprise, we deliver premium-quality soya beans that ensure freshness, nutrition, and taste, offering a wholesome addition to everyday meals.</p>
                         </div>
 
 
 
                         <div class="inqueryBtn">
-                            For further inquiy
+                            For further inquiry
                             <span class="main-header__info-phone-content">
                                 <a href="tel:+919081336347" class="main-header__info-phone"><span class="main-header__info-phone-title">Click Here</span></a>
                             </span>

@@ -21,13 +21,13 @@
                         <div class="product-description">
                             <p>Chana dal, also known as split Bengal gram, is one of the most widely used pulses in Indian households. With its nutty flavor and firm texture, it is a key ingredient in curries, soups, stews, and traditional sweets. Easy to cook and highly versatile, chana dal brings both taste and nutrition to everyday meals.</p>
                             <br>
-                            <p>Rich in plant-based protein, dietary fiber, and essential minerals like iron and manganese, chana dal supports digestion, energy, and overall wellness. At Neo Natural, we provide premium-quality chana dal that ensures freshness and flavor in every bite, making it an ideal choice for healthy and delicious cooking.</p>
+                            <p>Rich in plant-based protein, dietary fiber, and essential minerals like iron and manganese, chana dal supports digestion, energy, and overall wellness. At Sankal enterprise, we provide premium-quality chana dal that ensures freshness and flavor in every bite, making it an ideal choice for healthy and delicious cooking.</p>
                         </div>
 
 
 
                         <div class="inqueryBtn">
-                            For further inquiy
+                            For further inquiry
                             <span class="main-header__info-phone-content">
                                 <a href="tel:+919081336347" class="main-header__info-phone"><span class="main-header__info-phone-title">Click Here</span></a>
                             </span>

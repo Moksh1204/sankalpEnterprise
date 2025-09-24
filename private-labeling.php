@@ -17,7 +17,7 @@
         <div class="row">
             <div class="col-md-7">
                 <h4>Private Labeling</h4>
-                <p style="font-size: 16px;"><b>Neo Natural Industries offers wide variety of packaging operations from small Paper bags with inner food-grade poly-liner 10
+                <p style="font-size: 16px;"><b>Sankal enterprise Industries offers wide variety of packaging operations from small Paper bags with inner food-grade poly-liner 10
                         kg, 20 kg, 25 kg paper bags to HDPE bags to Bulk bags up to 1000 kgs. Conventional Gunny bags with inner food-grade polyliner : 25 kg. & 40 kg.</b></p>
                 <h4>We have also Consumer Packing.</h4>
                 <p style="font-size: 16px;">Size 5gm, 50g, 100g, 200g, 400g, and 500gm.</p>

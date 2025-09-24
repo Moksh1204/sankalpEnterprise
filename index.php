@@ -292,7 +292,7 @@
                                 </div>
                                 <div class="profileContent">
                                     <h5>Sanjay Makwana</h5>
-                                    <h6>Colourinn industries pvt. Ltd</h6>
+                                    <h6>Customer</h6>
                                 </div>
                             </div>
                         </div>
@@ -317,7 +317,7 @@
                                 </div>
                                 <div class="profileContent">
                                     <h5>Paras sanghvi</h5>
-                                    <h6>Customer</h6>
+                                    <h6>Dhanesh foods</h6>
                                 </div>
                             </div>
                         </div>
@@ -438,77 +438,6 @@
                             window.open(url, "_blank"); // Open WhatsApp only if form is valid
                         }
                     </script>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="blog-home-two">
-    <div class="container">
-        <div class="row top-row">
-            <div class="col-md-12 ">
-                <div class="block-title text-center">
-                    <div class="block-title__image">
-                        <img src="./assets/images/Sankalp-Logo.png" alt="">
-                    </div>
-                    <p>From the blog post</p>
-                    <h3>Latest News & Articles Directly from Blog</h3>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12 col-lg-4">
-                <div class="blog-card">
-                    <div class="blog-card__image">
-                        <img src="https://www.neonaturalindustries.com/wp-content/themes/neo/assets/images/blog/blog-grid-1.jpg" alt="Best Way to Do Eco-friendly Agriculture">
-                        <a href="#"></a>
-                    </div>
-                    <div class="blog-card__content">
-                        <div class="blog-card__date">18 Nov</div>
-                        <div class="blog-card__meta">
-                            <a href="#"><i class="far fa-user-circle"></i> by Admin </a>
-                        </div>
-                        <h3>
-                            <a href="#">Best Way to Do Eco and Agriculture</a>
-                        </h3>
-                        <a href="#" class="thm-btn">Read More <i class="fa fa-arrow-right"></i> </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-12 col-lg-4">
-                <div class="blog-card">
-                    <div class="blog-card__image">
-                        <img src="https://www.neonaturalindustries.com/wp-content/themes/neo/assets/images/blog/blog-grid-2.jpg" alt="Leverage agile frameworks to provide">
-                        <a href="#"></a>
-                    </div>
-                    <div class="blog-card__content">
-                        <div class="blog-card__date">18 Nov</div>
-                        <div class="blog-card__meta">
-                            <a href="#"><i class="far fa-user-circle"></i> by Admin </a>
-                        </div>
-                        <h3>
-                            <a href="#">Leverage agile frameworks to provide</a>
-                        </h3>
-                        <a href="#" class="thm-btn">Read More <i class="fa fa-arrow-right"></i> </a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-12 col-lg-4">
-                <div class="blog-card">
-                    <div class="blog-card__image">
-                        <img src="https://www.neonaturalindustries.com/wp-content/themes/neo/assets/images/blog/blog-grid-3.jpg" alt="Organically grow the holistic world view">
-                        <a href="#"></a>
-                    </div>
-                    <div class="blog-card__content">
-                        <div class="blog-card__date">18 Nov</div>
-                        <div class="blog-card__meta">
-                            <a href="#"><i class="far fa-user-circle"></i> by Admin </a>
-                        </div>
-                        <h3>
-                            <a href="#">Organically grow the holistic world view</a>
-                        </h3>
-                        <a href="#" class="thm-btn">Read More <i class="fa fa-arrow-right"></i> </a>
-                    </div>
                 </div>
             </div>
         </div>

@@ -21,12 +21,12 @@
                         <div class="product-description">
                             <p>Chickpeas, also known as garbanzo beans, are a nutrient-rich legume valued for their creamy texture and nutty flavor. They are widely used in both traditional and modern cuisines, forming the base of popular dishes like hummus, curries, stews, and salads. With their versatility and long shelf life, chickpeas remain a pantry essential across the globe.</p>
                             <br>
-                            <p>Packed with plant-based protein, dietary fiber, and vital minerals such as copper, manganese, and iron, chickpeas provide sustained energy and support overall wellness. At Neo Natural, we offer premium-quality chickpeas that deliver both taste and nutrition, making them a wholesome choice for everyday cooking and healthy living.</p>
+                            <p>Packed with plant-based protein, dietary fiber, and vital minerals such as copper, manganese, and iron, chickpeas provide sustained energy and support overall wellness. At Sankal enterprise, we offer premium-quality chickpeas that deliver both taste and nutrition, making them a wholesome choice for everyday cooking and healthy living.</p>
                         </div>
 
 
                         <div class="inqueryBtn">
-                            For further inquiy
+                            For further inquiry
                             <span class="main-header__info-phone-content">
                                 <a href="tel:+919081336347" class="main-header__info-phone"><span class="main-header__info-phone-title">Click Here</span></a>
                             </span>

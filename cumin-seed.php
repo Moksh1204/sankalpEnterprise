@@ -22,7 +22,7 @@
                             <p>Cumin seeds, harvested from the herb Cuminum cyminum, are a vital spice known for their unmistakable aroma and warm, earthy flavor. Used in a variety of global cuisines, these tiny seeds enhance the taste of dishes while offering significant health benefits. Rich in essential nutrients like magnesium, iron, and calcium, cumin seeds support various bodily functions, including improved digestion and bone health. Their unique blend of flavor and nutrition makes them a favorite in kitchens around the world.</p>
                         </div>
                         <div class="inqueryBtn">
-                            For further inquiy
+                            For further inquiry
                             <span class="main-header__info-phone-content">
                                 <a href="tel:+919081336347" class="main-header__info-phone"><span class="main-header__info-phone-title">Click Here</span></a>
                             </span>
