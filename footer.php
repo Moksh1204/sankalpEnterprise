@@ -6,7 +6,7 @@
                         <a href="index.php" class="footer-widget__Logo">
                             <img src="./assets/images/Sankalp-Logo.png">
                         </a>
-                        <p>Sankalp Enterprise prides itself on being your sought-after manufacturer, exporter, and supplier in India for conventional/organic spices, cumin seed, coriander, fennel seed, turmeric powder, wheat flour, red lentils, spinach powder, chilli powder, hulled sesame seeds, black sesame seeds, black mustard seeds, yellow mustard seeds, garam masala, cinnamon powder, food ingredients, grains, and psyllium.</p>
+                        <p>Sankalp Enterprise Industries is a trusted manufacturer, exporter, and supplier in India, offering a wide range of high-quality products. Our portfolio includes conventional and organic spices, Psyllium, grains, pulses, herbal powders, and snacks such as Tikha Mixture, Mitha Mixture, Papdi, Gathiya, Sing Bhujiya, Quinoa Chips, Ragi Chips, and Ragi Balls. We also provide Cumin Seed, Coriander, Fennel Seed, Turmeric Powder, Wheat Flour, Red Lentils, Spinach Powder, Chilli Powder, Hulled and Black Sesame Seeds, Black and Yellow Mustard Seeds, Garam Masala, and Cinnamon Powder. Committed to quality, consistency, and customer satisfaction, Sankalp Enterprise brings the best of Indian agricultural products and snacks to clients both domestically and internationally.</p>
                     </div>
                 </div>
 

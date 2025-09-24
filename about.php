@@ -1,5 +1,5 @@
 <?php include('header.php') ?>
-<section class="page-header">
+<!-- <section class="page-header">
     <div class="page-header__bg" style="background-image: url('./assets/images/bred/about-us.jpg');"></div>
 
     <div class="container">
@@ -10,7 +10,7 @@
         </ul>
         <h1 class="">Psyllium &#038; Agricultural Commodity Manufacturer</h1>
     </div>
-</section>
+</section> -->
 <div class="aboutSec">
     <div class="container">
         <div class="row">
@@ -53,7 +53,7 @@
                     </div>
                     <div class="missionContentWrapper">
                         <h3>Mission</h3>
-                        <p>Our mission is to continually offer world-class psyllium products, spices, and other agricultural products to our global clientele. Quality with innovation is our second name and we strive to constantly raise the benchmark. </p>
+                        <p>Our mission is to deliver premium-quality snacks, spices, and agricultural goods to customers worldwide. We are committed to blending innovation with quality, consistently setting new standards in every product we offer. </p>
                     </div>
                 </div>
             </div>
@@ -64,7 +64,7 @@
                     </div>
                     <div class="missionContentWrapper">
                         <h3>Vision</h3>
-                        <p>Sankalp Enterprise is driven by its vision of providing best-in-breed psyllium products and spices manufactured and processed using state-of-the-art processing facilities.</p>
+                        <p>At Sankalp Enterprise Industries, our vision is to be a global leader in providing snacks, herbal products and spices, crafted and processed using cutting-edge technology and modern facilities.</p>
                     </div>
                 </div>
                 <div class="MissionImg">
@@ -82,10 +82,10 @@
                     <div class="missionContentWrapper">
                         <h3>Values</h3>
                         <ul>
-                            <li><i class="fa-light fa-chevrons-right"></i>Quality</li>
-                            <li><i class="fa-light fa-chevrons-right"></i>Innovation</li>
-                            <li><i class="fa-light fa-chevrons-right"></i>Excellence</li>
-                            <li><i class="fa-light fa-chevrons-right"></i>Client satisfaction </li>
+                            <li><i class="fa-light fa-chevrons-right"></i>Quality: Ensuring the highest standards in every product.</li>
+                            <li><i class="fa-light fa-chevrons-right"></i>Innovation: Continuously improving processes and offerings.</li>
+                            <li><i class="fa-light fa-chevrons-right"></i>Excellence: Striving for perfection in all aspects of our business.</li>
+                            <li><i class="fa-light fa-chevrons-right"></i>Client satisfaction: Putting client needs at the heart of everything we do.</li>
                         </ul>
                     </div>
                 </div>
@@ -105,17 +105,7 @@
         </div>
 
         <div class="desc">
-            <p>Our infrastructural, manufacturing & export capabilities are exemplary and thus it benefits the Indian agriculture commodity market and the clients of Sankalp Enterprise in multiple ways. Below are listed some of the many benefits of choosing Sankalp Enterprise </p>
-
-            <ul>
-                <li><i class="fa-light fa-chevrons-right"></i>Years of experience.</li>
-                <li><i class="fa-light fa-chevrons-right"></i>Capital strength.</li>
-                <li><i class="fa-light fa-chevrons-right"></i>Technological innovation and upgradation.</li>
-                <li><i class="fa-light fa-chevrons-right"></i>Mammoth production capacity.</li>
-                <li><i class="fa-light fa-chevrons-right"></i>Immense manpower.</li>
-                <li><i class="fa-light fa-chevrons-right"></i>Hands-free and contactless production.</li>
-                <li><i class="fa-light fa-chevrons-right"></i>Bulk psyllium outsourcing and packaging.</li>
-            </ul>
+            <p>Sankalp Enterprise Industries stands out as a reliable and trusted partner in the world of agricultural products, spices, psyllium, herbal products, snacks, pulses, and grains. Our state-of-the-art infrastructure, advanced manufacturing facilities, and robust export capabilities ensure that every product we deliver meets the highest standards of quality, consistency, and safety. By integrating modern technology with traditional expertise, we are able to preserve the natural flavors, aroma, and nutritional value of our products while catering to the diverse needs of clients worldwide. Choosing Sankalp Enterprise means partnering with a company that prioritizes innovation, sustainability, and customer satisfaction. Our extensive experience, strict quality control measures, and commitment to timely delivery make us a preferred choice for wholesalers, dealers, distributors, and businesses seeking reliable, premium-grade products. From sourcing the finest raw materials to exporting finished goods globally, we ensure excellence at every step, bringing unparalleled value to both Indian agriculture and our international clientele.</p>
         </div>
     </div>
 </div>
